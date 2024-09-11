@@ -1,0 +1,2811 @@
+{
+  "Female Athletic Body~body": {
+    "displayName": "Female Athletic Body",
+    "category": "body",
+    "gender": "f",
+    "subcategories": []
+  },
+  "Female Generic Body~body": {
+    "displayName": "Female Generic Body",
+    "category": "body",
+    "gender": "f",
+    "subcategories": []
+  },
+  "Female Soft Body~body": {
+    "displayName": "Female Soft Body",
+    "category": "body",
+    "gender": "f",
+    "subcategories": []
+  },
+  "Arched Natural~eyebrows": {
+    "displayName": "Arched Natural",
+    "category": "eyebrows",
+    "gender": "f",
+    "subcategories": []
+  },
+  "Arched Natural Scar~eyebrows": {
+    "displayName": "Arched Natural Scar",
+    "category": "eyebrows",
+    "gender": "f",
+    "subcategories": []
+  },
+  "Arched Short~eyebrows": {
+    "displayName": "Arched Short",
+    "category": "eyebrows",
+    "gender": "f",
+    "subcategories": []
+  },
+  "Arched Thick Styled~eyebrows": {
+    "displayName": "Arched Thick Styled",
+    "category": "eyebrows",
+    "gender": "f",
+    "subcategories": []
+  },
+  "Arched Thin~eyebrows": {
+    "displayName": "Arched Thin",
+    "category": "eyebrows",
+    "gender": "f",
+    "subcategories": []
+  },
+  "Arched Thin High~eyebrows": {
+    "displayName": "Arched Thin High",
+    "category": "eyebrows",
+    "gender": "f",
+    "subcategories": []
+  },
+  "Bushy Thick~eyebrows": {
+    "displayName": "Bushy Thick",
+    "category": "eyebrows",
+    "gender": "f",
+    "subcategories": []
+  },
+  "High Arch Angled~eyebrows": {
+    "displayName": "High Arch Angled",
+    "category": "eyebrows",
+    "gender": "f",
+    "subcategories": []
+  },
+  "Round Medium~eyebrows": {
+    "displayName": "Round Medium",
+    "category": "eyebrows",
+    "gender": "f",
+    "subcategories": []
+  },
+  "Round Thick~eyebrows": {
+    "displayName": "Round Thick",
+    "category": "eyebrows",
+    "gender": "f",
+    "subcategories": []
+  },
+  "Round Thick Styled~eyebrows": {
+    "displayName": "Round Thick Styled",
+    "category": "eyebrows",
+    "gender": "b",
+    "subcategories": []
+  },
+  "Round Thin High~eyebrows": {
+    "displayName": "Round Thin High",
+    "category": "eyebrows",
+    "gender": "f",
+    "subcategories": []
+  },
+  "Straight Medium~eyebrows": {
+    "displayName": "Straight Medium",
+    "category": "eyebrows",
+    "gender": "f",
+    "subcategories": []
+  },
+  "Straight Thin~eyebrows": {
+    "displayName": "Straight Thin",
+    "category": "eyebrows",
+    "gender": "f",
+    "subcategories": []
+  },
+  "Diamond~face": {
+    "displayName": "Diamond",
+    "category": "face",
+    "gender": "f",
+    "subcategories": [ 28 ]
+  },
+  "Diamond Defined Contour~face": {
+    "displayName": "Diamond Defined Contour",
+    "category": "face",
+    "gender": "f",
+    "subcategories": [ 28 ]
+  },
+  "Diamond Long~face": {
+    "displayName": "Diamond Long",
+    "category": "face",
+    "gender": "f",
+    "subcategories": [ 28 ]
+  },
+  "Heart Defined~face": {
+    "displayName": "Heart Defined",
+    "category": "face",
+    "gender": "f",
+    "subcategories": [ 28 ]
+  },
+  "Heart Mature~face": {
+    "displayName": "Heart Mature",
+    "category": "face",
+    "gender": "f",
+    "subcategories": [ 28, 30 ]
+  },
+  "Heart Mature Double Chin~face": {
+    "displayName": "Heart Mature Double Chin",
+    "category": "face",
+    "gender": "f",
+    "subcategories": [ 28, 30 ]
+  },
+  "Heart Soft~face": {
+    "displayName": "Heart Soft",
+    "category": "face",
+    "gender": "f",
+    "subcategories": [ 28 ]
+  },
+  "Long Double Chin~face": {
+    "displayName": "Long Double Chin",
+    "category": "face",
+    "gender": "f",
+    "subcategories": [ 28 ]
+  },
+  "Round Double Chin~face": {
+    "displayName": "Round Double Chin",
+    "category": "face",
+    "gender": "f",
+    "subcategories": [ 28 ]
+  },
+  "Round Puffy Cheek~face": {
+    "displayName": "Round Puffy Cheek",
+    "category": "face",
+    "gender": "f",
+    "subcategories": [ 28 ]
+  },
+  "Round Soft~face": {
+    "displayName": "Round Soft",
+    "category": "face",
+    "gender": "f",
+    "subcategories": [ 28 ]
+  },
+  "Square Aged~face": {
+    "displayName": "Square Aged",
+    "category": "face",
+    "gender": "f",
+    "subcategories": [ 28, 30 ]
+  },
+  "Square Chiseled~face": {
+    "displayName": "Square Chiseled",
+    "category": "face",
+    "gender": "f",
+    "subcategories": [ 28 ]
+  },
+  "Square Chiseled Cheekbones~face": {
+    "displayName": "Square Chiseled Cheekbones",
+    "category": "face",
+    "gender": "f",
+    "subcategories": [ 28 ]
+  },
+  "Square Defined~face": {
+    "displayName": "Square Defined",
+    "category": "face",
+    "gender": "f",
+    "subcategories": [ 28 ]
+  },
+  "Square Mature~face": {
+    "displayName": "Square Mature",
+    "category": "face",
+    "gender": "f",
+    "subcategories": [ 28, 30 ]
+  },
+  "Square Soft~face": {
+    "displayName": "Square Soft",
+    "category": "face",
+    "gender": "f",
+    "subcategories": [ 28 ]
+  },
+  "Square Youthful~face": {
+    "displayName": "Square Youthful",
+    "category": "face",
+    "gender": "f",
+    "subcategories": [ 28 ]
+  },
+  "Triangle Chiseled~face": {
+    "displayName": "Triangle Chiseled",
+    "category": "face",
+    "gender": "f",
+    "subcategories": [ 28 ]
+  },
+  "Triangle Defined~face": {
+    "displayName": "Triangle Defined",
+    "category": "face",
+    "gender": "f",
+    "subcategories": [ 28 ]
+  },
+  "Angular Slender~eyes": {
+    "displayName": "Angular Slender",
+    "category": "eyes",
+    "gender": "f",
+    "subcategories": [ 31 ]
+  },
+  "Deep Set False Lashes Smokey Eye~eyes": {
+    "displayName": "Deep Set False Lashes Smokey Eye",
+    "category": "eyes",
+    "gender": "f",
+    "subcategories": [ 31 ]
+  },
+  "Deepset Almond~eyes": {
+    "displayName": "Deepset Almond",
+    "category": "eyes",
+    "gender": "f",
+    "subcategories": [ 31 ]
+  },
+  "Deepset Downturned~eyes": {
+    "displayName": "Deepset Downturned",
+    "category": "eyes",
+    "gender": "f",
+    "subcategories": [ 31 ]
+  },
+  "Deepset Downturned Wide~eyes": {
+    "displayName": "Deepset Downturned Wide",
+    "category": "eyes",
+    "gender": "f",
+    "subcategories": [ 31 ]
+  },
+  "Deepset Mature~eyes": {
+    "displayName": "Deepset Mature",
+    "category": "eyes",
+    "gender": "f",
+    "subcategories": [ 31 ]
+  },
+  "Deepset Upturned Wide~eyes": {
+    "displayName": "Deepset Upturned Wide",
+    "category": "eyes",
+    "gender": "f",
+    "subcategories": [ 31 ]
+  },
+  "Delicate Almond~eyes": {
+    "displayName": "Delicate Almond",
+    "category": "eyes",
+    "gender": "f",
+    "subcategories": [ 31 ]
+  },
+  "Delicate Almond Falsies~eyes": {
+    "displayName": "Delicate Almond Falsies",
+    "category": "eyes",
+    "gender": "f",
+    "subcategories": [ 31 ]
+  },
+  "Female Generic~eyes": {
+    "displayName": "Female Generic",
+    "category": "eyes",
+    "gender": "f",
+    "subcategories": [ 31 ]
+  },
+  "Heavy Lid Upturned~eyes": {
+    "displayName": "Heavy Lid Upturned",
+    "category": "eyes",
+    "gender": "f",
+    "subcategories": [ 31 ]
+  },
+  "Heavy Lid Upturned Falsies~eyes": {
+    "displayName": "Heavy Lid Upturned Falsies",
+    "category": "eyes",
+    "gender": "f",
+    "subcategories": [ 31 ]
+  },
+  "Hooded Slender Almond~eyes": {
+    "displayName": "Hooded Slender Almond",
+    "category": "eyes",
+    "gender": "f",
+    "subcategories": [ 31 ]
+  },
+  "Hooded Slender Almond Eyeliner~eyes": {
+    "displayName": "Hooded Slender Almond Eyeliner",
+    "category": "eyes",
+    "gender": "f",
+    "subcategories": [ 31 ]
+  },
+  "Monolid Defined~eyes": {
+    "displayName": "Monolid Defined",
+    "category": "eyes",
+    "gender": "f",
+    "subcategories": [ 32 ]
+  },
+  "Monolid Slender~eyes": {
+    "displayName": "Monolid Slender",
+    "category": "eyes",
+    "gender": "f",
+    "subcategories": [ 32 ]
+  },
+  "Round Downturned Wide~eyes": {
+    "displayName": "Round Downturned Wide",
+    "category": "eyes",
+    "gender": "f",
+    "subcategories": [ 31 ]
+  },
+  "Round Medium~eyes": {
+    "displayName": "Round Medium",
+    "category": "eyes",
+    "gender": "f",
+    "subcategories": [ 31 ]
+  },
+  "Sharp Almond~eyes": {
+    "displayName": "Sharp Almond",
+    "category": "eyes",
+    "gender": "f",
+    "subcategories": [ 31 ]
+  },
+  "Full Heart Pouty Vampire Fangs~mouth": {
+    "displayName": "Full Heart Pouty Vampire Fangs",
+    "category": "mouth",
+    "gender": "f",
+    "subcategories": [ 46, 48 ]
+  },
+  "Full Round Pouty Vampire Fangs~mouth": {
+    "displayName": "Full Round Pouty Vampire Fangs",
+    "category": "mouth",
+    "gender": "f",
+    "subcategories": [ 46, 48 ]
+  },
+  "Small Heart Vampire Fangs~mouth": {
+    "displayName": "Small Heart Vampire Fangs",
+    "category": "mouth",
+    "gender": "f",
+    "subcategories": [ 46, 48 ]
+  },
+  "Full Flat Top Pouty~mouth": {
+    "displayName": "Full Flat Top Pouty",
+    "category": "mouth",
+    "gender": "f",
+    "subcategories": [ 46, 47 ]
+  },
+  "Full Heart Pouty~mouth": {
+    "displayName": "Full Heart Pouty",
+    "category": "mouth",
+    "gender": "f",
+    "subcategories": [ 46, 47 ]
+  },
+  "Full Round Flat Top Skin~mouth": {
+    "displayName": "Full Round Flat Top Skin",
+    "category": "mouth",
+    "gender": "f",
+    "subcategories": [ 46, 47 ]
+  },
+  "Full Round Pouty~mouth": {
+    "displayName": "Full Round Pouty",
+    "category": "mouth",
+    "gender": "f",
+    "subcategories": [ 46, 47 ]
+  },
+  "Full Wide~mouth": {
+    "displayName": "Full Wide",
+    "category": "mouth",
+    "gender": "f",
+    "subcategories": [ 46, 47 ]
+  },
+  "Heart Shaped Pout~mouth": {
+    "displayName": "Heart Shaped Pout",
+    "category": "mouth",
+    "gender": "f",
+    "subcategories": [ 45, 47 ]
+  },
+  "Heart Shaped Pout Braces~mouth": {
+    "displayName": "Heart Shaped Pout Braces",
+    "category": "mouth",
+    "gender": "f",
+    "subcategories": [ 45, 47 ]
+  },
+  "Medium Downturned Pout~mouth": {
+    "displayName": "Medium Downturned Pout",
+    "category": "mouth",
+    "gender": "f",
+    "subcategories": [ 45, 47 ]
+  },
+  "Medium Heart Natural~mouth": {
+    "displayName": "Medium Heart Natural",
+    "category": "mouth",
+    "gender": "f",
+    "subcategories": [ 45, 47 ]
+  },
+  "Medium Thin~mouth": {
+    "displayName": "Medium Thin",
+    "category": "mouth",
+    "gender": "f",
+    "subcategories": [ 45, 47 ]
+  },
+  "Small Heart~mouth": {
+    "displayName": "Small Heart",
+    "category": "mouth",
+    "gender": "f",
+    "subcategories": [ 45, 47 ]
+  },
+  "Thin Heart~mouth": {
+    "displayName": "Thin Heart",
+    "category": "mouth",
+    "gender": "f",
+    "subcategories": [ 45, 47 ]
+  },
+  "3A Shoulder Length Curls Hair~hair": {
+    "displayName": "3A Shoulder Length Curls Hair",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 10, 15 ]
+  },
+  "Afro~hair": {
+    "displayName": "Afro",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 9, 10, 16 ]
+  },
+  "Bantu Knots~hair": {
+    "displayName": "Bantu Knots",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 9, 16 ]
+  },
+  "Barrel Roll Locs Updo Solid~hair": {
+    "displayName": "Barrel Roll Locs Updo Solid",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 12, 16 ]
+  },
+  "Beach Wave Hair~hair": {
+    "displayName": "Beach Wave Hair",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 11, 14 ]
+  },
+  "Blunt Bangs Short~hair": {
+    "displayName": "Blunt Bangs Short",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 9, 13 ]
+  },
+  "Bouffant Long Wavy~hair": {
+    "displayName": "Bouffant Long Wavy",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 11, 14 ]
+  },
+  "Braided Afro Bun~hair": {
+    "displayName": "Braided Afro Bun",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 9, 12, 16 ]
+  },
+  "Braided Bun~hair": {
+    "displayName": "Braided Bun",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 12, 16 ]
+  },
+  "Braided Curly Pony~hair": {
+    "displayName": "Braided Curly Pony",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 12, 14 ]
+  },
+  "Braids Updo~hair": {
+    "displayName": "Braids Updo",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 12, 16 ]
+  },
+  "Bun Low Sleek~hair": {
+    "displayName": "Bun Low Sleek",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 12, 13 ]
+  },
+  "Buzz Cut~hair": {
+    "displayName": "Buzz Cut",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 9 ]
+  },
+  "Classic Bob~hair": {
+    "displayName": "Classic Bob",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 9, 13 ]
+  },
+  "Conservative Cut~hair": {
+    "displayName": "Conservative Cut",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 9 ]
+  },
+  "Crew Cut~hair": {
+    "displayName": "Crew Cut",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 9 ]
+  },
+  "Cropped Punk Cut~hair": {
+    "displayName": "Cropped Punk Cut",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 10, 13 ]
+  },
+  "Curly Bob~hair": {
+    "displayName": "Curly Bob",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 10, 15 ]
+  },
+  "Curly Braids Hair~hair": {
+    "displayName": "Curly Braids Hair",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 11, 16 ]
+  },
+  "Curly Double Afro Puffs~hair": {
+    "displayName": "Curly Double Afro Puffs",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 12, 16 ]
+  },
+  "Double Bun Half Down Hair~hair": {
+    "displayName": "Double Bun Half Down Hair",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 11, 12, 14 ]
+  },
+  "Double Buns~hair": {
+    "displayName": "Double Buns",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 12 ]
+  },
+  "Dreads Braided~hair": {
+    "displayName": "Dreads Braided",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 11, 16 ]
+  },
+  "Dreads Loose Top Short~hair": {
+    "displayName": "Dreads Loose Top Short",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 9, 16 ]
+  },
+  "Emo Pixie~hair": {
+    "displayName": "Emo Pixie",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 9, 13 ]
+  },
+  "Full Pigtail~hair": {
+    "displayName": "Full Pigtail",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 12, 11, 14 ]
+  },
+  "Hair Flip~hair": {
+    "displayName": "Hair Flip",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 11, 14 ]
+  },
+  "Half Up Locs Long Hair~hair": {
+    "displayName": "Half Up Locs Long Hair",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 11, 16 ]
+  },
+  "High Bun 4C Long Twists~hair": {
+    "displayName": "High Bun 4C Long Twists",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 11, 12, 16 ]
+  },
+  "High Spiral Pigtail Hair~hair": {
+    "displayName": "High Spiral Pigtail Hair",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 12, 14 ]
+  },
+  "High Wavy Pony Tail Over Shoulder Solid~hair": {
+    "displayName": "High Wavy Pony Tail Over Shoulder Solid",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 11, 12, 14 ]
+  },
+  "Layered Wavy Bob~hair": {
+    "displayName": "Layered Wavy Bob",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 10, 14 ]
+  },
+  "Lob Bangs Blunt~hair": {
+    "displayName": "Lob Bangs Blunt",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 10, 13 ]
+  },
+  "Long Bang Short Hair~hair": {
+    "displayName": "Long Bang Short Hair",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 9, 13 ]
+  },
+  "Long Braided~hair": {
+    "displayName": "Long Braided",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 11, 16 ]
+  },
+  "Long Curl Half Updo~hair": {
+    "displayName": "Long Curl Half Updo",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 11, 12, 15 ]
+  },
+  "Long Curls~hair": {
+    "displayName": "Long Curls",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 11, 14 ]
+  },
+  "Long Double Dutch Braids~hair": {
+    "displayName": "Long Double Dutch Braids",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 11, 12 ]
+  },
+  "Long Down Wavy Princess Braid~hair": {
+    "displayName": "Long Down Wavy Princess Braid",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 11, 14 ]
+  },
+  "Long Dreadlocks~hair": {
+    "displayName": "Long Dreadlocks",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 11, 16 ]
+  },
+  "Long Faux Hawk Solid~hair": {
+    "displayName": "Long Faux Hawk Solid",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 9, 16 ]
+  },
+  "Long Feathered~hair": {
+    "displayName": "Long Feathered",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 11, 14 ]
+  },
+  "Long Feathered Bangs Blunt~hair": {
+    "displayName": "Long Feathered Bangs Blunt",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 11, 14 ]
+  },
+  "Long Half Up Ponytail Hair~hair": {
+    "displayName": "Long Half Up Ponytail Hair",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 11, 12, 13 ]
+  },
+  "Long High Ponytail~hair": {
+    "displayName": "Long High Ponytail",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 11, 12, 13 ]
+  },
+  "Long Layered Side Part~hair": {
+    "displayName": "Long Layered Side Part",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 10, 13 ]
+  },
+  "Long Loose Curls~hair": {
+    "displayName": "Long Loose Curls",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 11, 14 ]
+  },
+  "Long Side Shave~hair": {
+    "displayName": "Long Side Shave",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 11, 13 ]
+  },
+  "Long Straight Loose Bangs Blunt Solid~hair": {
+    "displayName": "Long Straight Loose Bangs Blunt Solid",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 11, 13 ]
+  },
+  "Long Straight Loose Bangs Sideswept Solid~hair": {
+    "displayName": "Long Straight Loose Bangs Sideswept Solid",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 11, 13 ]
+  },
+  "Long Straight Loose Solid~hair": {
+    "displayName": "Long Straight Loose Solid",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 11, 13 ]
+  },
+  "Long Straight Slicked Back~hair": {
+    "displayName": "Long Straight Slicked Back",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 11, 13 ]
+  },
+  "Long Straight Wavy Ends Parted~hair": {
+    "displayName": "Long Straight Wavy Ends Parted",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 11, 13 ]
+  },
+  "Long Tapered Widows Peak~hair": {
+    "displayName": "Long Tapered Widows Peak",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 11, 13 ]
+  },
+  "Long Thick Curls~hair": {
+    "displayName": "Long Thick Curls",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 11, 15 ]
+  },
+  "Long Updo Wavy Princess Braid~hair": {
+    "displayName": "Long Updo Wavy Princess Braid",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 12, 13 ]
+  },
+  "Long Voluminous Curls Loose~hair": {
+    "displayName": "Long Voluminous Curls Loose",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 11, 15 ]
+  },
+  "Long Wavy Blowout~hair": {
+    "displayName": "Long Wavy Blowout",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 11, 14 ]
+  },
+  "Long Wavy Loose Bangs Sideswept~hair": {
+    "displayName": "Long Wavy Loose Bangs Sideswept",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 11, 14 ]
+  },
+  "Long Wavy Parted Hair~hair": {
+    "displayName": "Long Wavy Parted Hair",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 11, 14 ]
+  },
+  "Medium Braided~hair": {
+    "displayName": "Medium Braided",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 10, 16 ]
+  },
+  "Medium Curly Solid~hair": {
+    "displayName": "Medium Curly Solid",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 11, 15 ]
+  },
+  "Medium Dreadlocks~hair": {
+    "displayName": "Medium Dreadlocks",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 10, 16 ]
+  },
+  "Medium Half Up Top Knot Ponytail~hair": {
+    "displayName": "Medium Half Up Top Knot Ponytail",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 9, 12, 13 ]
+  },
+  "Medium Shoulder Curly~hair": {
+    "displayName": "Medium Shoulder Curly",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 10, 15 ]
+  },
+  "Medium Shoulder Curly Bun Hair~hair": {
+    "displayName": "Medium Shoulder Curly Bun Hair",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 10, 12, 15 ]
+  },
+  "Medium Side Bang Double Bun~hair": {
+    "displayName": "Medium Side Bang Double Bun",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 10, 12, 13 ]
+  },
+  "Medium Straight Down~hair": {
+    "displayName": "Medium Straight Down",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 10, 13 ]
+  },
+  "Medium Straight Overgrown Bangs~hair": {
+    "displayName": "Medium Straight Overgrown Bangs",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 10, 13 ]
+  },
+  "Messy Sock Bun~hair": {
+    "displayName": "Messy Sock Bun",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 12, 13 ]
+  },
+  "Morning Updo~hair": {
+    "displayName": "Morning Updo",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 12, 14 ]
+  },
+  "Natural Afro~hair": {
+    "displayName": "Natural Afro",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 10, 16 ]
+  },
+  "Natural Curly Pulled Updo Hair~hair": {
+    "displayName": "Natural Curly Pulled Updo Hair",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 12, 16 ]
+  },
+  "Over Shoulder Braid~hair": {
+    "displayName": "Over Shoulder Braid",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 11, 12, 13 ]
+  },
+  "Over Shoulder Locs Hair~hair": {
+    "displayName": "Over Shoulder Locs Hair",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 11, 16 ]
+  },
+  "Pinup Victory Rolls~hair": {
+    "displayName": "Pinup Victory Rolls",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 11, 12, 14 ]
+  },
+  "Pony Tail Blunt Bangs~hair": {
+    "displayName": "Pony Tail Blunt Bangs",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 11, 12, 14 ]
+  },
+  "Punk Pixie~hair": {
+    "displayName": "Punk Pixie",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 9, 13 ]
+  },
+  "Scene Swoosh~hair": {
+    "displayName": "Scene Swoosh",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 11, 13 ]
+  },
+  "Short Afro~hair": {
+    "displayName": "Short Afro",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 9, 16 ]
+  },
+  "Short Curly Blow Out~hair": {
+    "displayName": "Short Curly Blow Out",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 9, 14 ]
+  },
+  "Short Curly Fade~hair": {
+    "displayName": "Short Curly Fade",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 9, 13 ]
+  },
+  "Short Flipped Wavy Solid~hair": {
+    "displayName": "Short Flipped Wavy Solid",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 9, 13, 14 ]
+  },
+  "Short High Ponytail~hair": {
+    "displayName": "Short High Ponytail",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 12, 13 ]
+  },
+  "Short Layered Fringe~hair": {
+    "displayName": "Short Layered Fringe",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 9, 13 ]
+  },
+  "Short Messy Pony Tail~hair": {
+    "displayName": "Short Messy Pony Tail",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 12, 13 ]
+  },
+  "Short Pixie~hair": {
+    "displayName": "Short Pixie",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 9, 13 ]
+  },
+  "Short Straight Tucked~hair": {
+    "displayName": "Short Straight Tucked",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 9, 13 ]
+  },
+  "Short Wavy Asymmetrical~hair": {
+    "displayName": "Short Wavy Asymmetrical",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 10, 14 ]
+  },
+  "Short Wavy Hair Solid~hair": {
+    "displayName": "Short Wavy Hair Solid",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 10, 14 ]
+  },
+  "Short Wavy Ombre~hair": {
+    "displayName": "Short Wavy Ombre",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 10, 14 ]
+  },
+  "Short Wavy Side Shave~hair": {
+    "displayName": "Short Wavy Side Shave",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 10, 14 ]
+  },
+  "Shoulder Length Locks Hair~hair": {
+    "displayName": "Shoulder Length Locks Hair",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 11, 16 ]
+  },
+  "Side Part Curly Asymmetrical~hair": {
+    "displayName": "Side Part Curly Asymmetrical",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 9, 15 ]
+  },
+  "Side Swept Updo Long~hair": {
+    "displayName": "Side Swept Updo Long",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 11, 12, 14 ]
+  },
+  "Side Swept Wavy Long Solid~hair": {
+    "displayName": "Side Swept Wavy Long Solid",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 11, 14 ]
+  },
+  "Sleek Ponytail~hair": {
+    "displayName": "Sleek Ponytail",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 11, 12, 13 ]
+  },
+  "Slicked Down Type4 Curls Hair~hair": {
+    "displayName": "Slicked Down Type4 Curls Hair",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 12, 16 ]
+  },
+  "Small Bun~hair": {
+    "displayName": "Small Bun",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 12, 13 ]
+  },
+  "Straight Medium~hair": {
+    "displayName": "Straight Medium",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 10, 13 ]
+  },
+  "Type 3 High Bun Coil Hair~hair": {
+    "displayName": "Type 3 High Bun Coil Hair",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 12, 16 ]
+  },
+  "Type 4 Afro~hair": {
+    "displayName": "Type 4 Afro",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 9, 16 ]
+  },
+  "Type 4 High Puff Hair~hair": {
+    "displayName": "Type 4 High Puff Hair",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 12, 16 ]
+  },
+  "Updo~hair": {
+    "displayName": "Updo",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 12 ]
+  },
+  "Updo Curly Long~hair": {
+    "displayName": "Updo Curly Long",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 11, 12, 15 ]
+  },
+  "Updo Curly Messy~hair": {
+    "displayName": "Updo Curly Messy",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 12, 15 ]
+  },
+  "Updo High Twist Bangs Blunt~hair": {
+    "displayName": "Updo High Twist Bangs Blunt",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 12 ]
+  },
+  "Updo Pony Wavy Long~hair": {
+    "displayName": "Updo Pony Wavy Long",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 11, 12, 14 ]
+  },
+  "Updo Wavy Sleek~hair": {
+    "displayName": "Updo Wavy Sleek",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 12 ]
+  },
+  "Updo Wide Bangs~hair": {
+    "displayName": "Updo Wide Bangs",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 12 ]
+  },
+  "Voluminous Curls~hair": {
+    "displayName": "Voluminous Curls",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 10, 15 ]
+  },
+  "Wavy Long~hair": {
+    "displayName": "Wavy Long",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 11, 14 ]
+  },
+  "Wavy Side Curls~hair": {
+    "displayName": "Wavy Side Curls",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 10, 14 ]
+  },
+  "Broad Flat~nose": {
+    "displayName": "Broad Flat",
+    "category": "nose",
+    "gender": "f",
+    "subcategories": []
+  },
+  "Broad Wide~nose": {
+    "displayName": "Broad Wide",
+    "category": "nose",
+    "gender": "f",
+    "subcategories": []
+  },
+  "Defined Natural~nose": {
+    "displayName": "Defined Natural",
+    "category": "nose",
+    "gender": "f",
+    "subcategories": []
+  },
+  "Grecian Angular~nose": {
+    "displayName": "Grecian Angular",
+    "category": "nose",
+    "gender": "f",
+    "subcategories": []
+  },
+  "Grecian Soft~nose": {
+    "displayName": "Grecian Soft",
+    "category": "nose",
+    "gender": "f",
+    "subcategories": []
+  },
+  "Narrow Flared~nose": {
+    "displayName": "Narrow Flared",
+    "category": "nose",
+    "gender": "f",
+    "subcategories": []
+  },
+  "Pointed Downturned~nose": {
+    "displayName": "Pointed Downturned",
+    "category": "nose",
+    "gender": "f",
+    "subcategories": []
+  },
+  "Round Broad~nose": {
+    "displayName": "Round Broad",
+    "category": "nose",
+    "gender": "f",
+    "subcategories": []
+  },
+  "Round Broad Downturned~nose": {
+    "displayName": "Round Broad Downturned",
+    "category": "nose",
+    "gender": "f",
+    "subcategories": []
+  },
+  "Round Button~nose": {
+    "displayName": "Round Button",
+    "category": "nose",
+    "gender": "f",
+    "subcategories": []
+  },
+  "Round Button Upturned~nose": {
+    "displayName": "Round Button Upturned",
+    "category": "nose",
+    "gender": "f",
+    "subcategories": []
+  },
+  "Round Button Wide~nose": {
+    "displayName": "Round Button Wide",
+    "category": "nose",
+    "gender": "f",
+    "subcategories": []
+  },
+  "Round Downturned~nose": {
+    "displayName": "Round Downturned",
+    "category": "nose",
+    "gender": "f",
+    "subcategories": []
+  },
+  "Round Flared Downturned~nose": {
+    "displayName": "Round Flared Downturned",
+    "category": "nose",
+    "gender": "f",
+    "subcategories": []
+  },
+  "Round Flared Downturned Broad~nose": {
+    "displayName": "Round Flared Downturned Broad",
+    "category": "nose",
+    "gender": "f",
+    "subcategories": []
+  },
+  "Round Flared Upturned~nose": {
+    "displayName": "Round Flared Upturned",
+    "category": "nose",
+    "gender": "f",
+    "subcategories": []
+  },
+  "Wide Broad Downturned~nose": {
+    "displayName": "Wide Broad Downturned",
+    "category": "nose",
+    "gender": "f",
+    "subcategories": []
+  },
+  "Neutral 01~bodyColor": {
+    "displayName": "Neutral 01",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 7, 1 ]
+  },
+  "Rose 06~bodyColor": {
+    "displayName": "Rose 06",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 8, 2 ]
+  },
+  "Copper 04~bodyColor": {
+    "displayName": "Copper 04",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 5, 2 ]
+  },
+  "Gold 08~bodyColor": {
+    "displayName": "Gold 08",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 6, 3 ]
+  },
+  "Copper 09~bodyColor": {
+    "displayName": "Copper 09",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 5, 3 ]
+  },
+  "Copper 06~bodyColor": {
+    "displayName": "Copper 06",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 5, 2 ]
+  },
+  "Rose 08~bodyColor": {
+    "displayName": "Rose 08",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 8, 3 ]
+  },
+  "Neutral 09~bodyColor": {
+    "displayName": "Neutral 09",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 7, 3 ]
+  },
+  "Gold 09~bodyColor": {
+    "displayName": "Gold 09",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 6, 3 ]
+  },
+  "Rose 07~bodyColor": {
+    "displayName": "Rose 07",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 8, 3 ]
+  },
+  "Neutral 10~bodyColor": {
+    "displayName": "Neutral 10",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 7, 3 ]
+  },
+  "Neutral 03~bodyColor": {
+    "displayName": "Neutral 03",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 7, 1 ]
+  },
+  "Neutral 02~bodyColor": {
+    "displayName": "Neutral 02",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 7, 1 ]
+  },
+  "Copper 10~bodyColor": {
+    "displayName": "Copper 10",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 5, 3 ]
+  },
+  "Neutral 07~bodyColor": {
+    "displayName": "Neutral 07",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 7, 3 ]
+  },
+  "Copper 00~bodyColor": {
+    "displayName": "Copper 00",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 5, 1 ]
+  },
+  "Rose 10~bodyColor": {
+    "displayName": "Rose 10",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 8, 3 ]
+  },
+  "Ash 09~bodyColor": {
+    "displayName": "Ash 09",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 4 ]
+  },
+  "Rose 00~bodyColor": {
+    "displayName": "Rose 00",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 8, 1 ]
+  },
+  "Gold 00~bodyColor": {
+    "displayName": "Gold 00",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 6, 1 ]
+  },
+  "Neutral 06~bodyColor": {
+    "displayName": "Neutral 06",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 7, 2 ]
+  },
+  "Gold 10~bodyColor": {
+    "displayName": "Gold 10",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 6, 3 ]
+  },
+  "Gold 04~bodyColor": {
+    "displayName": "Gold 04",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 6, 2 ]
+  },
+  "Copper 05~bodyColor": {
+    "displayName": "Copper 05",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 5, 2 ]
+  },
+  "Rose 03~bodyColor": {
+    "displayName": "Rose 03",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 8, 1 ]
+  },
+  "Neutral 08~bodyColor": {
+    "displayName": "Neutral 08",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 7, 3 ]
+  },
+  "Copper 08~bodyColor": {
+    "displayName": "Copper 08",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 5, 3 ]
+  },
+  "Ash 10~bodyColor": {
+    "displayName": "Ash 10",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 4 ]
+  },
+  "Copper 02~bodyColor": {
+    "displayName": "Copper 02",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 5, 1 ]
+  },
+  "Rose 09~bodyColor": {
+    "displayName": "Rose 09",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 8, 3 ]
+  },
+  "Copper 01~bodyColor": {
+    "displayName": "Copper 01",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 5, 1 ]
+  },
+  "Copper 07~bodyColor": {
+    "displayName": "Copper 07",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 5, 3 ]
+  },
+  "Rose 01~bodyColor": {
+    "displayName": "Rose 01",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 8, 1 ]
+  },
+  "Ash 08~bodyColor": {
+    "displayName": "Ash 08",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 4 ]
+  },
+  "Rose 02~bodyColor": {
+    "displayName": "Rose 02",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 8, 1 ]
+  },
+  "Gold 05~bodyColor": {
+    "displayName": "Gold 05",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 6, 2 ]
+  },
+  "Neutral 05~bodyColor": {
+    "displayName": "Neutral 05",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 7, 2 ]
+  },
+  "Neutral 00~bodyColor": {
+    "displayName": "Neutral 00",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 7, 1 ]
+  },
+  "Ash 04~bodyColor": {
+    "displayName": "Ash 04",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 4 ]
+  },
+  "Gold 02~bodyColor": {
+    "displayName": "Gold 02",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 6, 1 ]
+  },
+  "Neutral 04~bodyColor": {
+    "displayName": "Neutral 04",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 7, 2 ]
+  },
+  "Gold 07~bodyColor": {
+    "displayName": "Gold 07",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 6, 3 ]
+  },
+  "Gold 03~bodyColor": {
+    "displayName": "Gold 03",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 6, 1 ]
+  },
+  "Rose 04~bodyColor": {
+    "displayName": "Rose 04",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 8, 2 ]
+  },
+  "Gold 01~bodyColor": {
+    "displayName": "Gold 01",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 6, 1 ]
+  },
+  "Rose 05~bodyColor": {
+    "displayName": "Rose 05",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 8, 2 ]
+  },
+  "Gold 06~bodyColor": {
+    "displayName": "Gold 06",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 6, 2 ]
+  },
+  "Copper 03~bodyColor": {
+    "displayName": "Copper 03",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 5, 1 ]
+  },
+  "Ash 02~bodyColor": {
+    "displayName": "Ash 02",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 4 ]
+  },
+  "Ash 05~bodyColor": {
+    "displayName": "Ash 05",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 4 ]
+  },
+  "Ash 07~bodyColor": {
+    "displayName": "Ash 07",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 4 ]
+  },
+  "Ash 06~bodyColor": {
+    "displayName": "Ash 06",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 4 ]
+  },
+  "Ash 01~bodyColor": {
+    "displayName": "Ash 01",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 4 ]
+  },
+  "Ash 00~bodyColor": {
+    "displayName": "Ash 00",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 4 ]
+  },
+  "Ash 03~bodyColor": {
+    "displayName": "Ash 03",
+    "category": "bodyColor",
+    "gender": "b",
+    "subcategories": [ 4 ]
+  },
+  "Blue~eyebrowsColor": {
+    "displayName": "Blue",
+    "category": "eyebrowsColor",
+    "gender": "b",
+    "subcategories": [ 39, 44 ]
+  },
+  "Platinum Blonde~eyebrowsColor": {
+    "displayName": "Platinum Blonde",
+    "category": "eyebrowsColor",
+    "gender": "b",
+    "subcategories": [ 38, 42 ]
+  },
+  "Yellow Green~eyebrowsColor": {
+    "displayName": "Yellow Green",
+    "category": "eyebrowsColor",
+    "gender": "b",
+    "subcategories": [ 39, 44 ]
+  },
+  "Purple~eyebrowsColor": {
+    "displayName": "Purple",
+    "category": "eyebrowsColor",
+    "gender": "b",
+    "subcategories": [ 39, 44 ]
+  },
+  "Warm White~eyebrowsColor": {
+    "displayName": "Warm White",
+    "category": "eyebrowsColor",
+    "gender": "b",
+    "subcategories": [ 39, 44 ]
+  },
+  "Red Purple~eyebrowsColor": {
+    "displayName": "Red Purple",
+    "category": "eyebrowsColor",
+    "gender": "b",
+    "subcategories": [ 39, 44 ]
+  },
+  "Dirty Blonde~eyebrowsColor": {
+    "displayName": "Dirty Blonde",
+    "category": "eyebrowsColor",
+    "gender": "b",
+    "subcategories": [ 38, 42 ]
+  },
+  "Black Dark~eyebrowsColor": {
+    "displayName": "Black Dark",
+    "category": "eyebrowsColor",
+    "gender": "b",
+    "subcategories": [ 38, 40 ]
+  },
+  "Pink Lt~eyebrowsColor": {
+    "displayName": "Pink Lt",
+    "category": "eyebrowsColor",
+    "gender": "b",
+    "subcategories": [ 39, 44 ]
+  },
+  "Rose Gold~eyebrowsColor": {
+    "displayName": "Rose Gold",
+    "category": "eyebrowsColor",
+    "gender": "b",
+    "subcategories": [ 39, 44 ]
+  },
+  "Blue Black~eyebrowsColor": {
+    "displayName": "Blue Black",
+    "category": "eyebrowsColor",
+    "gender": "b",
+    "subcategories": [ 39, 44 ]
+  },
+  "Copper Red~eyebrowsColor": {
+    "displayName": "Copper Red",
+    "category": "eyebrowsColor",
+    "gender": "b",
+    "subcategories": [ 38, 43 ]
+  },
+  "Orange~eyebrowsColor": {
+    "displayName": "Orange",
+    "category": "eyebrowsColor",
+    "gender": "b",
+    "subcategories": [ 39, 43 ]
+  },
+  "Red~eyebrowsColor": {
+    "displayName": "Red",
+    "category": "eyebrowsColor",
+    "gender": "b",
+    "subcategories": [ 39, 43 ]
+  },
+  "Aqua Green~eyebrowsColor": {
+    "displayName": "Aqua Green",
+    "category": "eyebrowsColor",
+    "gender": "b",
+    "subcategories": [ 39, 44 ]
+  },
+  "Brown Chestnut~eyebrowsColor": {
+    "displayName": "Brown Chestnut",
+    "category": "eyebrowsColor",
+    "gender": "b",
+    "subcategories": [ 38, 41 ]
+  },
+  "Lilac Purple~eyebrowsColor": {
+    "displayName": "Lilac Purple",
+    "category": "eyebrowsColor",
+    "gender": "b",
+    "subcategories": [ 39, 44 ]
+  },
+  "Burgundy Red~eyebrowsColor": {
+    "displayName": "Burgundy Red",
+    "category": "eyebrowsColor",
+    "gender": "b",
+    "subcategories": [ 39, 44 ]
+  },
+  "Cornflower Blue~eyebrowsColor": {
+    "displayName": "Cornflower Blue",
+    "category": "eyebrowsColor",
+    "gender": "b",
+    "subcategories": [ 39, 44 ]
+  },
+  "Light Pink~eyebrowsColor": {
+    "displayName": "Light Pink",
+    "category": "eyebrowsColor",
+    "gender": "b",
+    "subcategories": [ 39, 44 ]
+  },
+  "Blonde Medium~eyebrowsColor": {
+    "displayName": "Blonde Medium",
+    "category": "eyebrowsColor",
+    "gender": "b",
+    "subcategories": [ 38, 42 ]
+  },
+  "blackJet~eyebrowsColor": {
+    "displayName": "blackJet",
+    "category": "eyebrowsColor",
+    "gender": "b",
+    "subcategories": [ 38, 40 ]
+  },
+  "Dark Brown~eyebrowsColor": {
+    "displayName": "Dark Brown",
+    "category": "eyebrowsColor",
+    "gender": "b",
+    "subcategories": [ 38, 41 ]
+  },
+  "Honey Blonde~eyebrowsColor": {
+    "displayName": "Honey Blonde",
+    "category": "eyebrowsColor",
+    "gender": "b",
+    "subcategories": [ 38, 42 ]
+  },
+  "Purple Lilac~eyebrowsColor": {
+    "displayName": "Purple Lilac",
+    "category": "eyebrowsColor",
+    "gender": "b",
+    "subcategories": [ 39, 44 ]
+  },
+  "Gray~eyebrowsColor": {
+    "displayName": "Gray",
+    "category": "eyebrowsColor",
+    "gender": "b",
+    "subcategories": [ 38, 44 ]
+  },
+  "Deep Brown~eyebrowsColor": {
+    "displayName": "Deep Brown",
+    "category": "eyebrowsColor",
+    "gender": "b",
+    "subcategories": [ 38, 41 ]
+  },
+  "Peach Blonde~eyebrowsColor": {
+    "displayName": "Peach Blonde",
+    "category": "eyebrowsColor",
+    "gender": "b",
+    "subcategories": [ 39, 44 ]
+  },
+  "Aqua Gray~eyebrowsColor": {
+    "displayName": "Aqua Gray",
+    "category": "eyebrowsColor",
+    "gender": "b",
+    "subcategories": [ 39, 44 ]
+  },
+  "Chestnut Brown~eyebrowsColor": {
+    "displayName": "Chestnut Brown",
+    "category": "eyebrowsColor",
+    "gender": "b",
+    "subcategories": [ 38, 41 ]
+  },
+  "Plum~eyebrowsColor": {
+    "displayName": "Plum",
+    "category": "eyebrowsColor",
+    "gender": "b",
+    "subcategories": [ 39, 44 ]
+  },
+  "Ginger Red~eyebrowsColor": {
+    "displayName": "Ginger Red",
+    "category": "eyebrowsColor",
+    "gender": "b",
+    "subcategories": [ 38, 43 ]
+  },
+  "Cool Gray~eyebrowsColor": {
+    "displayName": "Cool Gray",
+    "category": "eyebrowsColor",
+    "gender": "b",
+    "subcategories": [ 39, 44 ]
+  },
+  "Green~eyebrowsColor": {
+    "displayName": "Green",
+    "category": "eyebrowsColor",
+    "gender": "b",
+    "subcategories": [ 39, 44 ]
+  },
+  "Green Mint~eyebrowsColor": {
+    "displayName": "Green Mint",
+    "category": "eyebrowsColor",
+    "gender": "b",
+    "subcategories": [ 39, 44 ]
+  },
+  "Hot Pink~eyebrowsColor": {
+    "displayName": "Hot Pink",
+    "category": "eyebrowsColor",
+    "gender": "b",
+    "subcategories": [ 39, 44 ]
+  },
+  "Ash Blonde~eyebrowsColor": {
+    "displayName": "Ash Blonde",
+    "category": "eyebrowsColor",
+    "gender": "b",
+    "subcategories": [ 38, 42 ]
+  },
+  "White Warm~eyebrowsColor": {
+    "displayName": "White Warm",
+    "category": "eyebrowsColor",
+    "gender": "b",
+    "subcategories": [ 39, 44 ]
+  },
+  "Yellow~eyebrowsColor": {
+    "displayName": "Yellow",
+    "category": "eyebrowsColor",
+    "gender": "b",
+    "subcategories": [ 39, 44 ]
+  },
+  "Light Brown~eyebrowsColor": {
+    "displayName": "Light Brown",
+    "category": "eyebrowsColor",
+    "gender": "b",
+    "subcategories": [ 38, 41 ]
+  },
+  "Mint Green~eyebrowsColor": {
+    "displayName": "Mint Green",
+    "category": "eyebrowsColor",
+    "gender": "b",
+    "subcategories": [ 39, 44 ]
+  },
+  "Medium Warm Brown~eyebrowsColor": {
+    "displayName": "Medium Warm Brown",
+    "category": "eyebrowsColor",
+    "gender": "b",
+    "subcategories": [ 38, 41 ]
+  },
+  "Aqua Blue~eyebrowsColor": {
+    "displayName": "Aqua Blue",
+    "category": "eyebrowsColor",
+    "gender": "b",
+    "subcategories": [ 39, 44 ]
+  },
+  "Strawberry Blonde~eyebrowsColor": {
+    "displayName": "Strawberry Blonde",
+    "category": "eyebrowsColor",
+    "gender": "b",
+    "subcategories": [ 38, 43 ]
+  },
+  "Ice Blue~eyesColor": {
+    "displayName": "Ice Blue",
+    "category": "eyesColor",
+    "gender": "b",
+    "subcategories": [ 33, 36 ]
+  },
+  "Grey Cool~eyesColor": {
+    "displayName": "Grey Cool",
+    "category": "eyesColor",
+    "gender": "b",
+    "subcategories": [ 33, 37 ]
+  },
+  "Brown Deep~eyesColor": {
+    "displayName": "Brown Deep",
+    "category": "eyesColor",
+    "gender": "b",
+    "subcategories": [ 33, 35 ]
+  },
+  "Violet~eyesColor": {
+    "displayName": "Violet",
+    "category": "eyesColor",
+    "gender": "b",
+    "subcategories": [ 34 ]
+  },
+  "Green Emerald~eyesColor": {
+    "displayName": "Green Emerald",
+    "category": "eyesColor",
+    "gender": "b",
+    "subcategories": [ 33, 37 ]
+  },
+  "Brown Sand~eyesColor": {
+    "displayName": "Brown Sand",
+    "category": "eyesColor",
+    "gender": "b",
+    "subcategories": [ 33, 35 ]
+  },
+  "Brown Dark~eyesColor": {
+    "displayName": "Brown Dark",
+    "category": "eyesColor",
+    "gender": "b",
+    "subcategories": [ 33, 35 ]
+  },
+  "Blue Aqua~eyesColor": {
+    "displayName": "Blue Aqua",
+    "category": "eyesColor",
+    "gender": "b",
+    "subcategories": [ 33, 36 ]
+  },
+  "Blue Deep~eyesColor": {
+    "displayName": "Blue Deep",
+    "category": "eyesColor",
+    "gender": "b",
+    "subcategories": [ 33, 36 ]
+  },
+  "Brown Pale~eyesColor": {
+    "displayName": "Brown Pale",
+    "category": "eyesColor",
+    "gender": "b",
+    "subcategories": [ 33, 35 ]
+  },
+  "Red~eyesColor": {
+    "displayName": "Red",
+    "category": "eyesColor",
+    "gender": "b",
+    "subcategories": [ 34 ]
+  },
+  "Brown Light~eyesColor": {
+    "displayName": "Brown Light",
+    "category": "eyesColor",
+    "gender": "b",
+    "subcategories": [ 33, 35 ]
+  },
+  "Hazel~eyesColor": {
+    "displayName": "Hazel",
+    "category": "eyesColor",
+    "gender": "b",
+    "subcategories": [ 33, 37 ]
+  },
+  "Brown Black~eyesColor": {
+    "displayName": "Brown Black",
+    "category": "eyesColor",
+    "gender": "b",
+    "subcategories": [ 33, 35 ]
+  },
+  "Blue Green~eyesColor": {
+    "displayName": "Blue Green",
+    "category": "eyesColor",
+    "gender": "b",
+    "subcategories": [ 33, 36 ]
+  },
+  "Brown Medium~eyesColor": {
+    "displayName": "Brown Medium",
+    "category": "eyesColor",
+    "gender": "b",
+    "subcategories": [ 33, 35 ]
+  },
+  "Hazel Dark~eyesColor": {
+    "displayName": "Hazel Dark",
+    "category": "eyesColor",
+    "gender": "b",
+    "subcategories": [ 33, 37 ]
+  },
+  "Fair Rose Matte~mouthColor": {
+    "displayName": "Fair Rose Matte",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 49, 55 ],
+    "skin tones": [ "Rose 01", "Neutral 00", "Neutral 01" ]
+  },
+  "Pink Peach Medium Gloss~mouthColor": {
+    "displayName": "Pink Peach Medium Gloss",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 50, 55 ]
+  },
+  "Blood Orange Matte~mouthColor": {
+    "displayName": "Blood Orange Matte",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 51, 54 ]
+  },
+  "Fair Neutral Matte~mouthColor": {
+    "displayName": "Fair Neutral Matte",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 49, 51, 52 ],
+    "skin tones": [ "Neutral 02", "Copper 00", "Copper 01" ]
+  },
+  "Pink Medium Matte~mouthColor": {
+    "displayName": "Pink Medium Matte",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 51, 55 ]
+  },
+  "Black Matte~mouthColor": {
+    "displayName": "Black Matte",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 51, 57 ]
+  },
+  "Rose Deep Gloss~mouthColor": {
+    "displayName": "Rose Deep Gloss",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 50, 52 ]
+  },
+  "Red Garnet Matte~mouthColor": {
+    "displayName": "Red Garnet Matte",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 51, 54 ]
+  },
+  "Pink Peach Light Matte~mouthColor": {
+    "displayName": "Pink Peach Light Matte",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 49, 52 ],
+    "skin tones": [ "Rose 00", "Gold 00" ]
+  },
+  "Brown Deep Rose~mouthColor": {
+    "displayName": "Brown Deep Rose",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 49, 53 ],
+    "skin tones": [ "Copper 10" ]
+  },
+  "Red Gloss~mouthColor": {
+    "displayName": "Red Gloss",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 50, 54 ]
+  },
+  "Dark Amethyst Matte~mouthColor": {
+    "displayName": "Dark Amethyst Matte",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 51, 56 ]
+  },
+  "Red Deep Gloss~mouthColor": {
+    "displayName": "Red Deep Gloss",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 50, 54 ]
+  },
+  "Pink Dark Gloss~mouthColor": {
+    "displayName": "Pink Dark Gloss",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 50, 56 ]
+  },
+  "Beige Deep Neutral~mouthColor": {
+    "displayName": "Beige Deep Neutral",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 49, 53 ],
+    "skin tones": [ "Neutral 04", "Gold 04", "Copper 04", "Neutral 06" ]
+  },
+  "Pink Cashmere Matte~mouthColor": {
+    "displayName": "Pink Cashmere Matte",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 49, 55 ],
+    "skin tones": [ "Rose 08" ]
+  },
+  "Gold Deep Matte~mouthColor": {
+    "displayName": "Gold Deep Matte",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 51, 53 ]
+  },
+  "Rose Deep Matte~mouthColor": {
+    "displayName": "Rose Deep Matte",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 51, 53 ]
+  },
+  "Rose Matte~mouthColor": {
+    "displayName": "Rose Matte",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 51, 55 ]
+  },
+  "Beige Gold Matte~mouthColor": {
+    "displayName": "Beige Gold Matte",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 49, 52 ],
+    "skin tones": [ "Gold 02", "Gold 03" ]
+  },
+  "Gold Medium Gloss~mouthColor": {
+    "displayName": "Gold Medium Gloss",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 50, 53 ]
+  },
+  "Purple Deep Gloss~mouthColor": {
+    "displayName": "Purple Deep Gloss",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 50, 56 ]
+  },
+  "Dark Apricot Gloss~mouthColor": {
+    "displayName": "Dark Apricot Gloss",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 50, 54 ]
+  },
+  "Rose Medium Nude Matte~mouthColor": {
+    "displayName": "Rose Medium Nude Matte",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 49, 53 ],
+    "skin tones": [ "Neutral 07", "Copper 08" ]
+  },
+  "Mauve Gloss~mouthColor": {
+    "displayName": "Mauve Gloss",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 50, 56 ]
+  },
+  "Orange Deep Matte~mouthColor": {
+    "displayName": "Orange Deep Matte",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 51, 53 ]
+  },
+  "Plum Matte~mouthColor": {
+    "displayName": "Plum Matte",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 51, 56 ]
+  },
+  "Beige Rose~mouthColor": {
+    "displayName": "Beige Rose",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 50, 52 ]
+  },
+  "Purple Pastel Gloss~mouthColor": {
+    "displayName": "Purple Pastel Gloss",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 50, 55 ]
+  },
+  "Brown Deep Gold~mouthColor": {
+    "displayName": "Brown Deep Gold",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 49, 53 ],
+    "skin tones": [ "Gold 09", "Gold 10" ]
+  },
+  "Beige Light Gold Matte~mouthColor": {
+    "displayName": "Beige Light Gold Matte",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 49, 52 ],
+    "skin tones": [ "Copper 02" ]
+  },
+  "Red Deep Matte~mouthColor": {
+    "displayName": "Red Deep Matte",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 51, 54 ]
+  },
+  "Black Gloss~mouthColor": {
+    "displayName": "Black Gloss",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 50, 57 ]
+  },
+  "Pink Medium Gloss~mouthColor": {
+    "displayName": "Pink Medium Gloss",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 50, 55 ]
+  },
+  "Pink Hot Gloss~mouthColor": {
+    "displayName": "Pink Hot Gloss",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 50, 55 ]
+  },
+  "Ash Deep Gloss~mouthColor": {
+    "displayName": "Ash Deep Gloss",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 50, 57 ]
+  },
+  "Copper Deep Gloss~mouthColor": {
+    "displayName": "Copper Deep Gloss",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 50, 53 ]
+  },
+  "Ash Deep Matte~mouthColor": {
+    "displayName": "Ash Deep Matte",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 51, 57 ]
+  },
+  "Violet Gloss~mouthColor": {
+    "displayName": "Violet Gloss",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 50, 56 ]
+  },
+  "Orange Deep Gloss~mouthColor": {
+    "displayName": "Orange Deep Gloss",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 50, 53 ]
+  },
+  "Tan Deep Gold~mouthColor": {
+    "displayName": "Tan Deep Gold",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 49, 52 ],
+    "skin tones": [ "Copper 05" ]
+  },
+  "Brown Gold~mouthColor": {
+    "displayName": "Brown Gold",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 50, 53 ]
+  },
+  "Mauve Matte~mouthColor": {
+    "displayName": "Mauve Matte",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 51, 56 ]
+  },
+  "Gold Medium Matte~mouthColor": {
+    "displayName": "Gold Medium Matte",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 51, 53 ]
+  },
+  "Pink Peach Lt Gloss~mouthColor": {
+    "displayName": "Pink Peach Lt Gloss",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 50, 55 ]
+  },
+  "Rose Medium Nude Gloss~mouthColor": {
+    "displayName": "Rose Medium Nude Gloss",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 50, 53 ]
+  },
+  "Pink Hot Matte~mouthColor": {
+    "displayName": "Pink Hot Matte",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 51, 55 ]
+  },
+  "Pink Peach Medium Matte~mouthColor": {
+    "displayName": "Pink Peach Medium Matte",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 49, 52 ],
+    "skin tones": [ "Rose 03" ]
+  },
+  "Pink Beige Matte~mouthColor": {
+    "displayName": "Pink Beige Matte",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 49, 52 ],
+    "skin tones": [ "Rose 02" ]
+  },
+  "Neutral Medium Nude Gloss~mouthColor": {
+    "displayName": "Neutral Medium Nude Gloss",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 50, 52 ]
+  },
+  "Neutral Deep Gloss~mouthColor": {
+    "displayName": "Neutral Deep Gloss",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 50, 53 ]
+  },
+  "Gold Deep Gloss~mouthColor": {
+    "displayName": "Gold Deep Gloss",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 50, 53 ]
+  },
+  "Plum Gloss~mouthColor": {
+    "displayName": "Plum Gloss",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 50, 56 ]
+  },
+  "Rose Light Nude Matte~mouthColor": {
+    "displayName": "Rose Light Nude Matte",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 49, 52 ],
+    "skin tones": [ "Rose 04", "Neutral 03", "Copper 03" ]
+  },
+  "Violet Matte~mouthColor": {
+    "displayName": "Violet Matte",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 51, 56 ]
+  },
+  "Copper Deep Matte~mouthColor": {
+    "displayName": "Copper Deep Matte",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 51, 53 ]
+  },
+  "Purple Deep Matte~mouthColor": {
+    "displayName": "Purple Deep Matte",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 51, 56 ]
+  },
+  "Red Garnet Gloss~mouthColor": {
+    "displayName": "Red Garnet Gloss",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 50, 54 ]
+  },
+  "Pink Deep Matte~mouthColor": {
+    "displayName": "Pink Deep Matte",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 51, 55 ]
+  },
+  "Peach Gloss~mouthColor": {
+    "displayName": "Peach Gloss",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 50, 55 ]
+  },
+  "Tan Deep Neutral~mouthColor": {
+    "displayName": "Tan Deep Neutral",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 49, 53 ],
+    "skin tones": [ "Gold 05", "Gold 06", "Gold 07" ]
+  },
+  "Pink Dark Matte~mouthColor": {
+    "displayName": "Pink Dark Matte",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 51, 56 ]
+  },
+  "Blood Orange Gloss~mouthColor": {
+    "displayName": "Blood Orange Gloss",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 50, 54 ]
+  },
+  "Dark Mauve Matte~mouthColor": {
+    "displayName": "Dark Mauve Matte",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 51, 56 ]
+  },
+  "Blackberry Gloss~mouthColor": {
+    "displayName": "Blackberry Gloss",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 50, 56 ]
+  },
+  "Dark Apricot Matte~mouthColor": {
+    "displayName": "Dark Apricot Matte",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 51, 54 ]
+  },
+  "Peach Matte~mouthColor": {
+    "displayName": "Peach Matte",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 51, 55 ]
+  },
+  "Neutral Medium Nude Matte~mouthColor": {
+    "displayName": "Neutral Medium Nude Matte",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 49, 53 ],
+    "skin tones": [ "Rose 05", "Neutral 05", "Rose 06", "Rose 07", "Copper 06", "Copper 07" ]
+  },
+  "Dark Mauve Gloss~mouthColor": {
+    "displayName": "Dark Mauve Gloss",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 50, 56 ]
+  },
+  "Copper Medium Matte~mouthColor": {
+    "displayName": "Copper Medium Matte",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 51, 53 ]
+  },
+  "Neutral Deep Matte~mouthColor": {
+    "displayName": "Neutral Deep Matte",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 51, 53 ]
+  },
+  "Copper Medium Gloss~mouthColor": {
+    "displayName": "Copper Medium Gloss",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 50, 53 ]
+  },
+  "Red Matte~mouthColor": {
+    "displayName": "Red Matte",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 51, 54 ]
+  },
+  "Rose Dark Nude Matte~mouthColor": {
+    "displayName": "Rose Dark Nude Matte",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 49, 53 ],
+    "skin tones": [ "Rose 09", "Rose 10", "Neutral 08", "Neutral 09", "Neutral 10" ]
+  },
+  "Brown Neutral~mouthColor": {
+    "displayName": "Brown Neutral",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 49, 53 ],
+    "skin tones": [ "Gold 08", "Copper 09" ]
+  },
+  "Rose Dark Nude Gloss~mouthColor": {
+    "displayName": "Rose Dark Nude Gloss",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 50, 53 ]
+  },
+  "Pink Warm Gloss~mouthColor": {
+    "displayName": "Pink Warm Gloss",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 50, 55 ]
+  },
+  "Dark Amethyst Gloss~mouthColor": {
+    "displayName": "Dark Amethyst Gloss",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 50, 56 ]
+  },
+  "Pink Warm Matte~mouthColor": {
+    "displayName": "Pink Warm Matte",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 51, 55 ]
+  },
+  "Pink Deep Gloss~mouthColor": {
+    "displayName": "Pink Deep Gloss",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 50, 55 ]
+  },
+  "Royal Blue Gloss~mouthColor": {
+    "displayName": "Royal Blue Gloss",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 50, 57 ]
+  },
+  "Rose Light Nude Gloss~mouthColor": {
+    "displayName": "Rose Light Nude Gloss",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 50, 55 ]
+  },
+  "Pink Beige Gloss~mouthColor": {
+    "displayName": "Pink Beige Gloss",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 50, 55 ]
+  },
+  "Royal Blue Matte~mouthColor": {
+    "displayName": "Royal Blue Matte",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 51, 57 ]
+  },
+  "Blackberry Matte~mouthColor": {
+    "displayName": "Blackberry Matte",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 51, 57 ]
+  },
+  "Rose Gloss~mouthColor": {
+    "displayName": "Rose Gloss",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 50, 55 ]
+  },
+  "Purple Pastel Matte~mouthColor": {
+    "displayName": "Purple Pastel Matte",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 51, 56 ]
+  },
+  "Fair Gold Matte~mouthColor": {
+    "displayName": "Fair Gold Matte",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 49, 52 ],
+    "skin tones": [ "Gold 01" ]
+  },
+  "Pink Cashmere Gloss~mouthColor": {
+    "displayName": "Pink Cashmere Gloss",
+    "category": "mouthColor",
+    "gender": "b",
+    "subcategories": [ 50, 56 ]
+  },
+  "Blue~hairColor": {
+    "displayName": "Blue",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 18, 25 ]
+  },
+  "Platinum Blonde~hairColor": {
+    "displayName": "Platinum Blonde",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 17, 21 ]
+  },
+  "Yellow Green~hairColor": {
+    "displayName": "Yellow Green",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 18, 26 ]
+  },
+  "Gray~hairColor": {
+    "displayName": "Gray",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 17, 27 ]
+  },
+  "Cornflower Blue~hairColor": {
+    "displayName": "Cornflower Blue",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 18, 25 ]
+  },
+  "Purple Lilac~hairColor": {
+    "displayName": "Purple Lilac",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 18, 24 ]
+  },
+  "Cool Dark Brown~hairColor": {
+    "displayName": "Cool Dark Brown",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 17, 20 ]
+  },
+  "Dirty Blonde~hairColor": {
+    "displayName": "Dirty Blonde",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 17, 21 ]
+  },
+  "Orange~hairColor": {
+    "displayName": "Orange",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 18, 22 ]
+  },
+  "Pink Lt~hairColor": {
+    "displayName": "Pink Lt",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 18, 23 ]
+  },
+  "Light Brown~hairColor": {
+    "displayName": "Light Brown",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 17, 20 ]
+  },
+  "Pastel Purple Lavender~hairColor": {
+    "displayName": "Pastel Purple Lavender",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 18, 24 ]
+  },
+  "Copper Red~hairColor": {
+    "displayName": "Copper Red",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 18, 22 ]
+  },
+  "Black Dark~hairColor": {
+    "displayName": "Black Dark",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 17, 19 ]
+  },
+  "Medium Brown~hairColor": {
+    "displayName": "Medium Brown",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 17, 20 ]
+  },
+  "Brown Black~hairColor": {
+    "displayName": "Brown Black",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 17, 19 ]
+  },
+  "Pastel Blue~hairColor": {
+    "displayName": "Pastel Blue",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 18, 25 ]
+  },
+  "Red~hairColor": {
+    "displayName": "Red",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 18, 22 ]
+  },
+  "Ash Brown~hairColor": {
+    "displayName": "Ash Brown",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 17, 20 ]
+  },
+  "Pastel Mint~hairColor": {
+    "displayName": "Pastel Mint",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 18, 26 ]
+  },
+  "Aqua Green~hairColor": {
+    "displayName": "Aqua Green",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 18, 25 ]
+  },
+  "Brown Chestnut~hairColor": {
+    "displayName": "Brown Chestnut",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 17, 20 ]
+  },
+  "Lilac Purple~hairColor": {
+    "displayName": "Lilac Purple",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 18, 24 ]
+  },
+  "Burgundy Red~hairColor": {
+    "displayName": "Burgundy Red",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 18, 22 ]
+  },
+  "Purple~hairColor": {
+    "displayName": "Purple",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 18, 24 ]
+  },
+  "Light Pink~hairColor": {
+    "displayName": "Light Pink",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 18, 23 ]
+  },
+  "Blonde Medium~hairColor": {
+    "displayName": "Blonde Medium",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 17, 21 ]
+  },
+  "Black Jet~hairColor": {
+    "displayName": "Black Jet",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 17, 19 ]
+  },
+  "Warm White~hairColor": {
+    "displayName": "Warm White",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 18, 27 ]
+  },
+  "Auburn Brown~hairColor": {
+    "displayName": "Auburn Brown",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 17, 20 ]
+  },
+  "Honey Blonde~hairColor": {
+    "displayName": "Honey Blonde",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 17, 21 ]
+  },
+  "Red Purple~hairColor": {
+    "displayName": "Red Purple",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 18, 24 ]
+  },
+  "Deep Brown~hairColor": {
+    "displayName": "Deep Brown",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 17, 20 ]
+  },
+  "Warm Pink~hairColor": {
+    "displayName": "Warm Pink",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 18, 23 ]
+  },
+  "Peach Blonde~hairColor": {
+    "displayName": "Peach Blonde",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 17, 21 ]
+  },
+  "Aqua Gray~hairColor": {
+    "displayName": "Aqua Gray",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 18, 25 ]
+  },
+  "Chestnut Brown~hairColor": {
+    "displayName": "Chestnut Brown",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 17, 20 ]
+  },
+  "Plum~hairColor": {
+    "displayName": "Plum",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 18, 24 ]
+  },
+  "Ginger Red~hairColor": {
+    "displayName": "Ginger Red",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 17, 22 ]
+  },
+  "Cool Gray~hairColor": {
+    "displayName": "Cool Gray",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 17, 27 ]
+  },
+  "Platinum White~hairColor": {
+    "displayName": "Platinum White",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 18, 21 ]
+  },
+  "Blue Black~hairColor": {
+    "displayName": "Blue Black",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 18, 25 ]
+  },
+  "Medium Warm Brown~hairColor": {
+    "displayName": "Medium Warm Brown",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 17, 20 ]
+  },
+  "Green Mint~hairColor": {
+    "displayName": "Green Mint",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 18, 26 ]
+  },
+  "Hot Pink~hairColor": {
+    "displayName": "Hot Pink",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 18, 23 ]
+  },
+  "Aqua Blue~hairColor": {
+    "displayName": "Aqua Blue",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 18, 25 ]
+  },
+  "Brunette Brown~hairColor": {
+    "displayName": "Brunette Brown",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 17, 20 ]
+  },
+  "Ash Blonde~hairColor": {
+    "displayName": "Ash Blonde",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 17, 21 ]
+  },
+  "Platinum Ice~hairColor": {
+    "displayName": "Platinum Ice",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 18, 27 ]
+  },
+  "Yellow~hairColor": {
+    "displayName": "Yellow",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 18, 26 ]
+  },
+  "Dark Brown~hairColor": {
+    "displayName": "Dark Brown",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 17, 20 ]
+  },
+  "Rose Gold~hairColor": {
+    "displayName": "Rose Gold",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 18, 23 ]
+  },
+  "White Warm~hairColor": {
+    "displayName": "White Warm",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 18, 27 ]
+  },
+  "Mint Green~hairColor": {
+    "displayName": "Mint Green",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 18, 26 ]
+  },
+  "Green~hairColor": {
+    "displayName": "Green",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 18, 26 ]
+  },
+  "Golden Brown~hairColor": {
+    "displayName": "Golden Brown",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 17, 20 ]
+  },
+  "Strawberry Blonde~hairColor": {
+    "displayName": "Strawberry Blonde",
+    "category": "hairColor",
+    "gender": "b",
+    "subcategories": [ 17, 22 ]
+  },
+  "Slicked Down Type3 Curls Hair~hair": {
+    "displayName": "Slicked Down Type3 Curls Hair",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 12, 16 ]
+  },
+  "Mohawk Locs Short~hair": {
+    "displayName": "Mohawk Locs Short",
+    "category": "hair",
+    "gender": "f",
+    "subcategories": [ 9, 16 ]
+  }
+}

@@ -1,0 +1,1071 @@
+  {
+    "Female Body~body": {
+      "displayName": "Female Body",
+      "category": "body",
+      "gender": "m",
+      "subcategories": []
+    },
+    "Male Athletic Body~body": {
+      "displayName": "Male Athletic Body",
+      "category": "body",
+      "gender": "m",
+      "subcategories": []
+    },
+    "Male Generic Body~body": {
+      "displayName": "Male Generic Body",
+      "category": "body",
+      "gender": "m",
+      "subcategories": []
+    },
+    "Male Slim Body~body": {
+      "displayName": "Male Slim Body",
+      "category": "body",
+      "gender": "m",
+      "subcategories": []
+    },
+    "Male Soft Body~body": {
+      "displayName": "Male Soft Body",
+      "category": "body",
+      "gender": "m",
+      "subcategories": []
+    },
+    "Arched Bushy~eyebrows": {
+      "displayName": "Arched Bushy",
+      "category": "eyebrows",
+      "gender": "m",
+      "subcategories": []
+    },
+    "Arched Medium~eyebrows": {
+      "displayName": "Arched Medium",
+      "category": "eyebrows",
+      "gender": "m",
+      "subcategories": []
+    },
+    "Arched Soft~eyebrows": {
+      "displayName": "Arched Soft",
+      "category": "eyebrows",
+      "gender": "m",
+      "subcategories": []
+    },
+    "Furrowed Raised S~eyebrows": {
+      "displayName": "Furrowed Raised S",
+      "category": "eyebrows",
+      "gender": "m",
+      "subcategories": []
+    },
+    "Furrowed Straight S~eyebrows": {
+      "displayName": "Furrowed Straight S",
+      "category": "eyebrows",
+      "gender": "m",
+      "subcategories": []
+    },
+    "Male Generic~eyebrows": {
+      "displayName": "Male Generic",
+      "category": "eyebrows",
+      "gender": "m",
+      "subcategories": []
+    },
+    "Round Medium~eyebrows": {
+      "displayName": "Round Medium",
+      "category": "eyebrows",
+      "gender": "m",
+      "subcategories": []
+    },
+    "Round Soft~eyebrows": {
+      "displayName": "Round Soft",
+      "category": "eyebrows",
+      "gender": "m",
+      "subcategories": []
+    },
+    "Round Thick~eyebrows": {
+      "displayName": "Round Thick",
+      "category": "eyebrows",
+      "gender": "m",
+      "subcategories": []
+    },
+    "Round Thin~eyebrows": {
+      "displayName": "Round Thin",
+      "category": "eyebrows",
+      "gender": "m",
+      "subcategories": []
+    },
+    "Straight Angled~eyebrows": {
+      "displayName": "Straight Angled",
+      "category": "eyebrows",
+      "gender": "m",
+      "subcategories": []
+    },
+    "Straight Medium~eyebrows": {
+      "displayName": "Straight Medium",
+      "category": "eyebrows",
+      "gender": "m",
+      "subcategories": []
+    },
+    "Straight Medium Scar~eyebrows": {
+      "displayName": "Straight Medium Scar",
+      "category": "eyebrows",
+      "gender": "m",
+      "subcategories": []
+    },
+    "Chiseled Angular~face": {
+      "displayName": "Chiseled Angular",
+      "category": "face",
+      "gender": "m",
+      "subcategories": [ 28 ]
+    },
+    "Chiseled Angular Stubble~face": {
+      "displayName": "Chiseled Angular Stubble",
+      "category": "face",
+      "gender": "m",
+      "subcategories": [ 29 ]
+    },
+    "Chiseled Square Stubble Shaved~face": {
+      "displayName": "Chiseled Square Stubble Shaved",
+      "category": "face",
+      "gender": "m",
+      "subcategories": [ 29 ]
+    },
+    "Diamond Defined~face": {
+      "displayName": "Diamond Defined",
+      "category": "face",
+      "gender": "m",
+      "subcategories": [ 28 ]
+    },
+    "Diamond Soft~face": {
+      "displayName": "Diamond Soft",
+      "category": "face",
+      "gender": "m",
+      "subcategories": [ 28 ]
+    },
+    "Heart Soft~face": {
+      "displayName": "Heart Soft",
+      "category": "face",
+      "gender": "m",
+      "subcategories": [ 28 ]
+    },
+    "Male Generic~face": {
+      "displayName": "Male Generic",
+      "category": "face",
+      "gender": "m",
+      "subcategories": [ 28 ]
+    },
+    "Round Broad Cheeks~face": {
+      "displayName": "Round Broad Cheeks",
+      "category": "face",
+      "gender": "m",
+      "subcategories": [ 28 ]
+    },
+    "Round Soft~face": {
+      "displayName": "Round Soft",
+      "category": "face",
+      "gender": "m",
+      "subcategories": [ 28 ]
+    },
+    "Square Aged~face": {
+      "displayName": "Square Aged",
+      "category": "face",
+      "gender": "m",
+      "subcategories": [ 30 ]
+    },
+    "Square Defined~face": {
+      "displayName": "Square Defined",
+      "category": "face",
+      "gender": "m",
+      "subcategories": [ 28 ]
+    },
+    "Square Jaw~face": {
+      "displayName": "Square Jaw",
+      "category": "face",
+      "gender": "m",
+      "subcategories": [ 28 ]
+    },
+    "Square Jaw Mature~face": {
+      "displayName": "Square Jaw Mature",
+      "category": "face",
+      "gender": "m",
+      "subcategories": [ 30 ]
+    },
+    "Square Jaw Roundcheek Stubble~face": {
+      "displayName": "Square Jaw Roundcheek Stubble",
+      "category": "face",
+      "gender": "m",
+      "subcategories": [ 29 ]
+    },
+    "Square Long Jaw Shadow~face": {
+      "displayName": "Square Long Jaw Shadow",
+      "category": "face",
+      "gender": "m",
+      "subcategories": [ 28 ]
+    },
+    "Square Long Jaw Stubble~face": {
+      "displayName": "Square Long Jaw Stubble",
+      "category": "face",
+      "gender": "m",
+      "subcategories": [ 29 ]
+    },
+    "Square Sculpted~face": {
+      "displayName": "Square Sculpted",
+      "category": "face",
+      "gender": "m",
+      "subcategories": [ 28 ]
+    },
+    "Square Sculpted Cheekbones~face": {
+      "displayName": "Square Sculpted Cheekbones",
+      "category": "face",
+      "gender": "m",
+      "subcategories": [ 28 ]
+    },
+    "Square Sculpted Cleft Chin~face": {
+      "displayName": "Square Sculpted Cleft Chin",
+      "category": "face",
+      "gender": "m",
+      "subcategories": [ 28 ]
+    },
+    "Square Sculpted Heavy Stubble~face": {
+      "displayName": "Square Sculpted Heavy Stubble",
+      "category": "face",
+      "gender": "m",
+      "subcategories": [ 29 ]
+    },
+    "Square Youthful~face": {
+      "displayName": "Square Youthful",
+      "category": "face",
+      "gender": "m",
+      "subcategories": [ 28 ]
+    },
+    "Triangle Chiseled~face": {
+      "displayName": "Triangle Chiseled",
+      "category": "face",
+      "gender": "m",
+      "subcategories": [ 28 ]
+    },
+    "Triangle Chiseled Scruffy Beard~face": {
+      "displayName": "Triangle Chiseled Scruffy Beard",
+      "category": "face",
+      "gender": "m",
+      "subcategories": [ 29 ]
+    },
+    "Triangle Defined Chin~face": {
+      "displayName": "Triangle Defined Chin",
+      "category": "face",
+      "gender": "m",
+      "subcategories": [ 28 ]
+    },
+    "Triangle Defined Chin Pointed Ear Skin~face": {
+      "displayName": "Triangle Defined Chin Pointed Ear Skin",
+      "category": "face",
+      "gender": "m",
+      "subcategories": [ 28 ]
+    },
+    "Triangle Sculpted~face": {
+      "displayName": "Triangle Sculpted",
+      "category": "face",
+      "gender": "m",
+      "subcategories": [ 28 ]
+    },
+    "Deep Sunken Defined~eyes": {
+      "displayName": "Deep Sunken Defined",
+      "category": "eyes",
+      "gender": "m",
+      "subcategories": [ 31 ]
+    },
+    "Deep Sunken Defined Lashes~eyes": {
+      "displayName": "Deep Sunken Defined Lashes",
+      "category": "eyes",
+      "gender": "m",
+      "subcategories": [ 31 ]
+    },
+    "Deepset Downturned~eyes": {
+      "displayName": "Deepset Downturned",
+      "category": "eyes",
+      "gender": "m",
+      "subcategories": [ 31 ]
+    },
+    "Deepset Downturned Lidded~eyes": {
+      "displayName": "Deepset Downturned Lidded",
+      "category": "eyes",
+      "gender": "m",
+      "subcategories": [ 31 ]
+    },
+    "Deepset Heavy Lid~eyes": {
+      "displayName": "Deepset Heavy Lid",
+      "category": "eyes",
+      "gender": "m",
+      "subcategories": [ 31 ]
+    },
+    "Deepset Sloping Mature~eyes": {
+      "displayName": "Deepset Sloping Mature",
+      "category": "eyes",
+      "gender": "m",
+      "subcategories": [ 31 ]
+    },
+    "Deepset Upturned~eyes": {
+      "displayName": "Deepset Upturned",
+      "category": "eyes",
+      "gender": "m",
+      "subcategories": [ 31 ]
+    },
+    "Deepset Upturned Lashes~eyes": {
+      "displayName": "Deepset Upturned Lashes",
+      "category": "eyes",
+      "gender": "m",
+      "subcategories": [ 31 ]
+    },
+    "Delicate Almond~eyes": {
+      "displayName": "Delicate Almond",
+      "category": "eyes",
+      "gender": "m",
+      "subcategories": [ 31 ]
+    },
+    "Downturned Heavy Lid~eyes": {
+      "displayName": "Downturned Heavy Lid",
+      "category": "eyes",
+      "gender": "m",
+      "subcategories": [ 31 ]
+    },
+    "Hooded Almond~eyes": {
+      "displayName": "Hooded Almond",
+      "category": "eyes",
+      "gender": "m",
+      "subcategories": [ 31 ]
+    },
+    "Hooded Almond Narrow~eyes": {
+      "displayName": "Hooded Almond Narrow",
+      "category": "eyes",
+      "gender": "m",
+      "subcategories": [ 31 ]
+    },
+    "Male Deep Sunken~eyes": {
+      "displayName": "Male Deep Sunken",
+      "category": "eyes",
+      "gender": "m",
+      "subcategories": [ 31 ]
+    },
+    "Male Generic~eyes": {
+      "displayName": "Male Generic",
+      "category": "eyes",
+      "gender": "m",
+      "subcategories": [ 31 ]
+    },
+    "Monolid Slender~eyes": {
+      "displayName": "Monolid Slender",
+      "category": "eyes",
+      "gender": "m",
+      "subcategories": [ 32 ]
+    },
+    "Monolid Wide~eyes": {
+      "displayName": "Monolid Wide",
+      "category": "eyes",
+      "gender": "m",
+      "subcategories": [ 32 ]
+    },
+    "Narrow Almond Deep Smiling~eyes": {
+      "displayName": "Narrow Almond Deep Smiling",
+      "category": "eyes",
+      "gender": "m",
+      "subcategories": [ 31 ]
+    },
+    "Narrow Almond Deep Sunken~eyes": {
+      "displayName": "Narrow Almond Deep Sunken",
+      "category": "eyes",
+      "gender": "m",
+      "subcategories": [ 31 ]
+    },
+    "Oval Wide~eyes": {
+      "displayName": "Oval Wide",
+      "category": "eyes",
+      "gender": "m",
+      "subcategories": [ 31 ]
+    },
+    "Sloping Heavy Lid~eyes": {
+      "displayName": "Sloping Heavy Lid",
+      "category": "eyes",
+      "gender": "m",
+      "subcategories": [ 31 ]
+    },
+    "Wide Almond Deep~eyes": {
+      "displayName": "Wide Almond Deep",
+      "category": "eyes",
+      "gender": "m",
+      "subcategories": [ 31 ]
+    },
+    "Wide Almond Deep Eyebags~eyes": {
+      "displayName": "Wide Almond Deep Eyebags",
+      "category": "eyes",
+      "gender": "m",
+      "subcategories": [ 31 ]
+    },
+    "Wide Defined~eyes": {
+      "displayName": "Wide Defined",
+      "category": "eyes",
+      "gender": "m",
+      "subcategories": [ 31 ]
+    },
+    "Full Flat Top~mouth": {
+      "displayName": "Full Flat Top",
+      "category": "mouth",
+      "gender": "m",
+      "subcategories": [ 46, 47 ]
+    },
+    "Full Flat Top Pouty~mouth": {
+      "displayName": "Full Flat Top Pouty",
+      "category": "mouth",
+      "gender": "m",
+      "subcategories": [ 46, 47 ]
+    },
+    "Full Lower Lip Sharp Vampire Fangs~mouth": {
+      "displayName": "Full Lower Lip Sharp Vampire Fangs",
+      "category": "mouth",
+      "gender": "m",
+      "subcategories": [ 46, 48 ]
+    },
+    "Medium Heart Vampire Fangs~mouth": {
+      "displayName": "Medium Heart Vampire Fangs",
+      "category": "mouth",
+      "gender": "m",
+      "subcategories": [ 45, 48 ]
+    },
+    "Full Heart Large~mouth": {
+      "displayName": "Full Heart Large",
+      "category": "mouth",
+      "gender": "m",
+      "subcategories": [ 46, 47 ]
+    },
+    "Full Heart Natural~mouth": {
+      "displayName": "Full Heart Natural",
+      "category": "mouth",
+      "gender": "m",
+      "subcategories": [ 46, 47 ]
+    },
+    "Full Lower Lip Heart~mouth": {
+      "displayName": "Full Lower Lip Heart",
+      "category": "mouth",
+      "gender": "m",
+      "subcategories": [ 46, 47 ]
+    },
+    "Full Lower Lip Sharp~mouth": {
+      "displayName": "Full Lower Lip Sharp",
+      "category": "mouth",
+      "gender": "m",
+      "subcategories": [ 46, 47 ]
+    },
+    "Medium Heart~mouth": {
+      "displayName": "Medium Heart",
+      "category": "mouth",
+      "gender": "m",
+      "subcategories": [ 45, 47 ]
+    },
+    "Medium Straight Natural~mouth": {
+      "displayName": "Medium Straight Natural",
+      "category": "mouth",
+      "gender": "m",
+      "subcategories": [ 45, 47 ]
+    },
+    "Small Heart~mouth": {
+      "displayName": "Small Heart",
+      "category": "mouth",
+      "gender": "m",
+      "subcategories": [ 45, 47 ]
+    },
+    "Thin Heart~mouth": {
+      "displayName": "Thin Heart",
+      "category": "mouth",
+      "gender": "m",
+      "subcategories": [ 45, 47 ]
+    },
+    "3A Shoulder Length Curls Hair~hair": {
+      "displayName": "3A Shoulder Length Curls Hair",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 10, 15 ]
+    },
+    "Afro~hair": {
+      "displayName": "Afro",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 10, 16 ]
+    },
+    "Assymetrical Curtain Bang Undercut~hair": {
+      "displayName": "Assymetrical Curtain Bang Undercut",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 9, 13 ]
+    },
+    "Conservative Cut~hair": {
+      "displayName": "Conservative Cut",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 9, 13 ]
+    },
+    "Crew Cut~hair": {
+      "displayName": "Crew Cut",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 9, 13 ]
+    },
+    "Cropped Punk Cut~hair": {
+      "displayName": "Cropped Punk Cut",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 10, 13 ]
+    },
+    "Curly Braids~hair": {
+      "displayName": "Curly Braids",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 11, 16 ]
+    },
+    "Curly Loose Afro Hair~hair": {
+      "displayName": "Curly Loose Afro Hair",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 10, 16 ]
+    },
+    "Curly Mohawk~hair": {
+      "displayName": "Curly Mohawk",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 9, 16 ]
+    },
+    "Dreads Long Loose Bun~hair": {
+      "displayName": "Dreads Long Loose Bun",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 11, 12, 16 ]
+    },
+    "Dreads Loose Medium Shoulder Hair~hair": {
+      "displayName": "Dreads Loose Medium Shoulder Hair",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 10, 16 ]
+    },
+    "Dreads Loose Top Short~hair": {
+      "displayName": "Dreads Loose Top Short",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 9, 16 ]
+    },
+    "Dreads Mohawk Wrap Up Hair~hair": {
+      "displayName": "Dreads Mohawk Wrap Up Hair",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 12, 16 ]
+    },
+    "Emo Pixie~hair": {
+      "displayName": "Emo Pixie",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 9, 13 ]
+    },
+    "Even Messy Curls Solid~hair": {
+      "displayName": "Even Messy Curls Solid",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 9, 15 ]
+    },
+    "Generic Short~hair": {
+      "displayName": "Generic Short",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 9, 13 ]
+    },
+    "Half Up Locs Long Hair~hair": {
+      "displayName": "Half Up Locs Long Hair",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 11, 12, 16 ]
+    },
+    "Locs Updo Hair~hair": {
+      "displayName": "Locs Updo Hair",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 12, 16 ]
+    },
+    "Long Bang Short Hair~hair": {
+      "displayName": "Long Bang Short Hair",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 9, 13 ]
+    },
+    "Long Braided~hair": {
+      "displayName": "Long Braided",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 11, 16 ]
+    },
+    "Long Curls~hair": {
+      "displayName": "Long Curls",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 11, 14 ]
+    },
+    "Long Dreadlocks~hair": {
+      "displayName": "Long Dreadlocks",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 11, 16 ]
+    },
+    "Long High Ponytail Hair Complex Color~hair": {
+      "displayName": "Long Layered Side Part",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 11, 12, 13 ]
+    },
+    "Long Layered Side Part~hair": {
+      "displayName": "Long Layered Side Part",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 11, 13 ]
+    },
+    "Long Loose Curls~hair": {
+      "displayName": "Long Loose Curls",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 11, 14 ]
+    },
+    "Long Straight Slicked Back~hair": {
+      "displayName": "Long Straight Slicked Back",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 11, 13 ]
+    },
+    "Long Tapered Widows Peak~hair": {
+      "displayName": "Long Tapered Widows Peak",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 11, 13 ]
+    },
+    "Long Thick Curls~hair": {
+      "displayName": "Long Thick Curls",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 11, 15 ]
+    },
+    "Long Top Messy Curls~hair": {
+      "displayName": "Long Top Messy Curls",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 9, 14 ]
+    },
+    "Long Wavy Blowout~hair": {
+      "displayName": "Long Wavy Blowout",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 11, 14 ]
+    },
+    "Long Wavy Parted~hair": {
+      "displayName": "Long Wavy Parted",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 11, 14 ]
+    },
+    "Manbun~hair": {
+      "displayName": "Manbun",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 12, 13 ]
+    },
+    "Medium Curly~hair": {
+      "displayName": "Medium Curly",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 11, 15 ]
+    },
+    "Medium Dreadlocks~hair": {
+      "displayName": "Medium Dreadlocks",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 9, 15 ]
+    },
+    "Medium Half Up Top Knot Ponytail~hair": {
+      "displayName": "Medium Half Up Top Knot Ponytail",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 9, 12, 13 ]
+    },
+    "Medium Messy Curls~hair": {
+      "displayName": "Medium Messy Curls",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 10, 14 ]
+    },
+    "Medium Messy Fluffy Parted~hair": {
+      "displayName": "Medium Messy Fluffy Parted",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 9, 13 ]
+    },
+    "Medium Side Curls~hair": {
+      "displayName": "Medium Side Curls",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 9, 13 ]
+    },
+    "Medium Side Part Flip~hair": {
+      "displayName": "Medium Side Part Flip",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 9, 13 ]
+    },
+    "Medium Taper Wavy~hair": {
+      "displayName": "Medium Taper Wavy",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 9, 13 ]
+    },
+    "Medium Waves Natural~hair": {
+      "displayName": "Medium Waves Natural",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 9, 13 ]
+    },
+    "Medium Wavy Messy~hair": {
+      "displayName": "Medium Wavy Messy",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 9, 13 ]
+    },
+    "Messy Undercut~hair": {
+      "displayName": "Messy Undercut",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 9, 13 ]
+    },
+    "Messy Wild Unkempt~hair": {
+      "displayName": "Messy Wild Unkempt",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 10, 14 ]
+    },
+    "Military Fade Cut~hair": {
+      "displayName": "Military Fade Cut",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 9, 13 ]
+    },
+    "Mohawk Dreads Short~hair": {
+      "displayName": "Mohawk Dreads Short",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 9, 16 ]
+    },
+    "Natural Afro~hair": {
+      "displayName": "Natural Afro",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 10, 16 ]
+    },
+    "Receded Hairline~hair": {
+      "displayName": "Receded Hairline",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 9, 13 ]
+    },
+    "Receding Short Straight~hair": {
+      "displayName": "Receding Short Straight",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 9, 13 ]
+    },
+    "Scene Swoosh~hair": {
+      "displayName": "Scene Swoosh",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 11, 13 ]
+    },
+    "Short Curly Fade~hair": {
+      "displayName": "Short Curly Fade",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 9, 16 ]
+    },
+    "Short Messy Curls~hair": {
+      "displayName": "Short Messy Curls",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 9, 15 ]
+    },
+    "Short Messy Pony Tail Hair Complex Color~hair": {
+      "displayName": "Short Messy Pony Tail Hair Complex Color",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": []
+    },
+    "Short Pixie~hair": {
+      "displayName": "Short Pixie",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 9, 13 ]
+    },
+    "Short Shaggy~hair": {
+      "displayName": "Short Shaggy",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 9, 13 ]
+    },
+    "Short Side Part Curly~hair": {
+      "displayName": "Short Side Part Curly",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 9, 14 ]
+    },
+    "Short Side Shave~hair": {
+      "displayName": "Short Side Shave",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 10, 14 ]
+    },
+    "Short Twists~hair": {
+      "displayName": "Short Twists",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 9, 16 ]
+    },
+    "Short Wavy~hair": {
+      "displayName": "Short Wavy",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 10, 14 ]
+    },
+    "Shoulder Length Locks Hair~hair": {
+      "displayName": "Shoulder Length Locks Hair",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 11, 16 ]
+    },
+    "Shoulder Length Tousled~hair": {
+      "displayName": "Shoulder Length Tousled",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 10, 13 ]
+    },
+    "Side Part Wavy Tousled~hair": {
+      "displayName": "Side Part Wavy Tousled",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 9, 13 ]
+    },
+    "Side Swept Medium Hair Solid~hair": {
+      "displayName": "Side Swept Medium Hair Solid",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 10, 13 ]
+    },
+    "Sleek Ponytail Hair Complex Color~hair": {
+      "displayName": "Sleek Ponytail Hair Complex Color",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 11, 12, 13 ]
+    },
+    "Slicked Back Side Shaved Tousled~hair": {
+      "displayName": "Slicked Back Side Shaved Tousled",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 9, 13 ]
+    },
+    "Slicked Back Solid~hair": {
+      "displayName": "Slicked Back Solid",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 9, 13 ]
+    },
+    "Small Bun~hair": {
+      "displayName": "Small Bun",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 12, 13 ]
+    },
+    "Small Ponytail Wavy Parted Hair~hair": {
+      "displayName": "Small Ponytail Wavy Parted Hair",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 10, 12, 13 ]
+    },
+    "Straight Bang Fluffy Hair Hair~hair": {
+      "displayName": "Straight Bang Fluffy Hair Hair",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 9, 13 ]
+    },
+    "Straight Medium~hair": {
+      "displayName": "Straight Medium",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 10, 13 ]
+    },
+    "Tousled Loose Curls Long~hair": {
+      "displayName": "Tousled Loose Curls Long",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 9, 13 ]
+    },
+    "Twist Afro Hair~hair": {
+      "displayName": "Twist Afro Hair",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 9, 16 ]
+    },
+    "Type 3 Short Coils Hair~hair": {
+      "displayName": "Type 3 Short Coils Hair",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 9, 16 ]
+    },
+    "Type 4 Afro~hair": {
+      "displayName": "Type 4 Afro",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 9, 16 ]
+    },
+    "Undercut Short Straight Texture~hair": {
+      "displayName": "Undercut Short Straight Texture",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 9, 13 ]
+    },
+    "Updo Pony Wavy Long~hair": {
+      "displayName": "Updo Pony Wavy Long",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 11, 12, 14 ]
+    },
+    "Wavy Long~hair": {
+      "displayName": "Wavy Long",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 11, 14 ]
+    },
+    "Wavy Messy~hair": {
+      "displayName": "Wavy Messy",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 9, 14 ]
+    },
+    "Wavy Quiff~hair": {
+      "displayName": "Wavy Quiff",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 9, 13 ]
+    },
+    "Aquiline Medium~nose": {
+      "displayName": "Aquiline Medium",
+      "category": "nose",
+      "gender": "m",
+      "subcategories": []
+    },
+    "Bulbous Downturned~nose": {
+      "displayName": "Bulbous Downturned",
+      "category": "nose",
+      "gender": "m",
+      "subcategories": []
+    },
+    "Button Round~nose": {
+      "displayName": "Button Round",
+      "category": "nose",
+      "gender": "m",
+      "subcategories": []
+    },
+    "Button Wide~nose": {
+      "displayName": "Button Wide",
+      "category": "nose",
+      "gender": "m",
+      "subcategories": []
+    },
+    "Grecian Downturned~nose": {
+      "displayName": "Grecian Downturned",
+      "category": "nose",
+      "gender": "m",
+      "subcategories": []
+    },
+    "Grecian Narrow~nose": {
+      "displayName": "Grecian Narrow",
+      "category": "nose",
+      "gender": "m",
+      "subcategories": []
+    },
+    "Grecian Round~nose": {
+      "displayName": "Grecian Round",
+      "category": "nose",
+      "gender": "m",
+      "subcategories": []
+    },
+    "Hooked Grecian~nose": {
+      "displayName": "Hooked Grecian",
+      "category": "nose",
+      "gender": "m",
+      "subcategories": []
+    },
+    "Male Generic~nose": {
+      "displayName": "Male Generic",
+      "category": "nose",
+      "gender": "m",
+      "subcategories": []
+    },
+    "Roman Straight Broad~nose": {
+      "displayName": "Roman Straight Broad",
+      "category": "nose",
+      "gender": "m",
+      "subcategories": []
+    },
+    "Round Broad~nose": {
+      "displayName": "Round Broad",
+      "category": "nose",
+      "gender": "m",
+      "subcategories": []
+    },
+    "Round Flared Downturned~nose": {
+      "displayName": "Round Flared Downturned",
+      "category": "nose",
+      "gender": "m",
+      "subcategories": []
+    },
+    "Round Wide~nose": {
+      "displayName": "Round Wide",
+      "category": "nose",
+      "gender": "m",
+      "subcategories": []
+    },
+    "Round Wide Downturned~nose": {
+      "displayName": "Round Wide Downturned",
+      "category": "nose",
+      "gender": "m",
+      "subcategories": []
+    },
+    "Straight Flat~nose": {
+      "displayName": "Straight Flat",
+      "category": "nose",
+      "gender": "m",
+      "subcategories": []
+    },
+    "Straight Narrow~nose": {
+      "displayName": "Straight Narrow",
+      "category": "nose",
+      "gender": "m",
+      "subcategories": []
+    },
+    "Straight Pointed~nose": {
+      "displayName": "Straight Pointed",
+      "category": "nose",
+      "gender": "m",
+      "subcategories": []
+    },
+    "Straight Pointed Wide~nose": {
+      "displayName": "Straight Pointed Wide",
+      "category": "nose",
+      "gender": "m",
+      "subcategories": []
+    },
+    "Straight Wide~nose": {
+      "displayName": "Straight Wide",
+      "category": "nose",
+      "gender": "m",
+      "subcategories": []
+    },
+    "Slicked Back Short~hair": {
+      "displayName": "Slicked Back Short",
+      "category": "hair",
+      "gender": "m",
+      "subcategories": [ 10, 13 ]
+    }
+  }
+ 

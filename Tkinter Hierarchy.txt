@@ -1,0 +1,123 @@
+|root [Tk()] (startGUI)
+|	|title [root.title]
+|
+|	|mainFrame [Frame] (tkinter_mainMenu)
+|	|	|mainLabel [Label]
+|	|	|b1 [Button] "Manage Templates" *tkinter_templatesMenu*
+|	|	|b2 [Button] "Manage Assets *tkinter_assetsMenu*
+|	|	|b3 [Button] "Help" *tkinter_helpMenu* 
+|	|	|b0 [Button] "Save & Exit"
+|
+|	|templatesFrame [Frame] (tkinter_templatesMenu)
+|	|	|templatesLabel [Label]
+|	|	|b4 [Button] "Create a new template" *tkinter_addNewTemplate*
+|	|	|b5 [Button] "Edit an existing template" *tkinter_editTemplate*
+|	|	|b6 [Button] "Delete all existing templates" 
+|	|	|b7 [Button] "Back to main menu" *tkinter_mainMenu*
+|
+|	|assetsFrame [Frame] (tkinter_assetsMenu)
+|	|	|assetsLabel [Label]
+|	|	|b8 [Button] "Add a new asset" *tkinter_addNewAsset*
+|	|	|b9 [Button] "View all assets" *tkinter_viewAllAssets*
+|	|	|b12 [Button] "Edit an asset" *tkinter_editAsset*
+|	|	|b10 [Button] "Delete an asset" *tkinter_deleteAsset*
+|	|	|b11 [Button] "Back to main menu" *tkinter_mainMenu*
+|
+|	|addNewAssetFrame [Frame] (tkinter.addNewAsset)
+|	|	|grid1 [Frame]
+|	|	|	|l3 [Label] 
+|	|	|	|l4 [Label] 
+|	|	|	|l5 [Label] 
+|	|	|	|e1 [Entry]
+|	|	|	|e2 [Entry]
+|	|	|	|l6 [Label]
+|	|	|	|c1 [Dropdown]
+|	|	|	|l7 [Label]
+|	|	|	|l8 [Label]
+|	|	|	|c2 [Dropdown]
+|	|	|grid2 [Frame]
+|	|	|grid3 [Frame]
+|	|	|	|b12 [Button] "Discard" *tkinter_assetsMenu*
+|	|	|	|b13 [Button] "Save" *tkinter_addNewAsset_confirm(e1, e2, c1, c2, categories)*
+|
+|	|main_frame [Frame] (tkinter_viewAllAssets)
+|	|	|canvas [Canvas] 
+|	|	|	|text [Frame]
+|	|	|	|	|title [Label] 
+|	|	|	|	|values [Label]
+|	|	|scroll [ttk.Scrollbar]
+|	|	|back [Button] "Done" *tkinter_assetsMenu*
+|
+|	|frame [Frame] (tkinter_editAsset)
+|	|	|grid [Frame]
+|	|	|	|l1 [Label]
+|	|	|	|cat_dropdown [Dropdown]
+|	|	|	|l2 [Label]
+|	|	|	|asset [Dropdown]
+|	|	|grid2 [Frame]
+|	|	|	|display_name_title [Label] "Display Name:"
+|	|	|	|display_name [Entry]
+|	|	|grid3 [Frame]
+|	|	|	|cb [Checkbox]
+|	|	|	|error [Label]
+|	|	|grid4 [Frame]
+|	|	|	|cancel [Button] "Cancel" *tkinter_assetsMenu*
+|	|	|	|delete [Button] "Save changes" *tkinter_editAsset_confirm(cat_dropdown, asset_dropdown, grid1, grid2)*
+|
+|	|frame [Frame] (tkinter_deleteAsset)
+|	|	|warning [Label]
+|	|	|notice [Label]
+|	|	|grid [Frame]
+|	|	|	|l1 [Label]
+|	|	|	|cat_dropdown [Dropdown]
+|	|	|	|l2 [Label]
+|	|	|	|asset [Dropdown]
+|	|	|grid2 [Frame]
+|	|	|	|cancel [Button] "Cancel" *tkinter_assetsMenu*
+|	|	|	|delete [Button] "Delete" *tkinter_deleteAsset_confirm(cat_dropdown, asset, frame)*
+|
+|	|helpFrame [Frame] (tkinter_helpMenu)
+|	|	|l1 [Label]
+|	|	|l2 [Label]
+|	|	|b12 [Button]
+|
+|	|frame [Frame] (tkinter_addNewTemplate)
+|	|	|grid [Frame]
+|	|	|	|l1 [Label]
+|	|	|	|l2 [Label]
+|	|	|	|e1 [Entry]
+|	|	|	|l3 [Label]
+|	|	|	|e2 [Entry]
+|	|	|	|l4 [Label]
+|	|	|	|c1 [ttk.Combobox]
+|	|	|grid0 [Frame]
+|	|	|	|b1 [Button] "Cancel" *tkinter_templatesMenu*
+|	|	|	|b2 [Button] "Done" *addNewTemplate_continue*
+|	|	|error [Label]
+|
+|	|frame [Frame] (tkinter_editTemplate)
+|	|	|l1 [Label] "Select a template to edit:"
+|	|	|choose_temp [Dropdown]
+|	|	|back1 [Button] "Go back" *tkinter_templatesMenu*
+|	
+|	|frame [Frame] (tkinter_editTemplate -> showTemplateMenu)
+|	|	|frame1 [Frame]
+|	|	|	|title [Label]
+|	|	|frame2 [Frame]
+|	|	|	|manage_cat [Button] "Manage Categories" *templateCategories(temp_info, mc_info, frame2)*
+|	|	|	|manage_sub [Button] "Manage Subcategories" *templateSubcategories(temp_info, mc_info, frame2)*
+|	|	|	|manage_ast [Button] "Manage Assets" *templateAssets(temp_info, mc_info, frame2)*
+|	|	|	|manage_fam [Button] "Manage Relatives" *templateRelatives(temp_info, mc_info, frame2)*
+|	|	|	|back2 [Button] "Go Back" *tkinter_editTemplate*
+|	|	|	|
+|	|	|	|relative [Frame] (editRelative)
+|	|	|	|	|l2 [Label] "Choose a relative"
+|	|	|	|	|choose_char [Dropdown]
+|	|	|	|	|l3 [Label] "or"
+|	|	|	|	|new_char [Button] "Create a new relative" *addNewRelative*
+|	|	|	|	|back2 [Button] "Go Back" *showTemplateMenu(temp_info[1])*
+|	|	|	|
+|	|	|	|l4 [Label] "New relative's script name:"
+|	|	|	|name [Entry]
+|	|	|	|l5 [Label] "Gender:"
+|	|	|	|gender [Dropdown]
